@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.jmir.tachiyomi.mi.anime4k.debug",
+      "sha256_cert_fingerprints": ["F9:9A:D4:7F:92:86:CE:3D:61:34:5F:65:DD:0F:88:8F:16:AE:BF:53:BF:E7:5E:FE:5B:6A:B8:89:04:1A:B2:59"]
+    }
+  }
+]
