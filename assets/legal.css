@@ -43,7 +43,7 @@ a.project-card:hover{border-color:#ffffff45;background-color:#2b3344b8}
 @media(max-width:600px){.project-landing{width:calc(100% - 32px);padding:24px 0}.project-index .project-grid{gap:16px}.project-index .project-card{min-height:245px;padding:28px}.project-index .project-card h1{font-size:30px}.project-arrow{top:24px;right:24px}}
 .project-symbol{width:70px;height:70px;margin-bottom:36px;border-radius:20px}
 span.project-symbol{display:grid;place-items:center;background:#d5d7e312;border:1px solid #d5d7e324;color:#d1d5e8;font-size:47px;line-height:1}
-span.approximation-symbol{background:#dde3ed;border-color:#ffffff30;overflow:hidden}
+span.approximation-symbol{background:transparent;border:0;overflow:visible}
 .approximation-symbol img{width:70px;height:70px;max-width:none;object-fit:contain;transform:scale(1.6)}
 .project-card .eyebrow{margin-bottom:10px}
 .project-card p:not(.eyebrow){color:var(--muted);font-size:16px;max-width:380px;margin-bottom:32px}
