@@ -1,0 +1,20 @@
+Nyanime — experimental closed-source-player branch
+
+Nyanime derives from AniYomi and preserves work from Mihon, Tachiyomi and their
+contributors. The upstream Apache License 2.0 and original notices remain
+applicable to their respective code. This notice does not replace any licence.
+
+Modifications in this branch include removal of the torrent engine and optional
+addon host, additional component notices, a portable interpreted source runtime,
+and experimental native-player build and verification recipes.
+Runtime dependency inventories and corrected component notices distinguish the
+licences of Java wrappers from the native libraries linked into the application.
+
+Native media libraries, image decoders, shaders, SDKs, fonts, models and other
+assets retain their individual licences. Source availability, replacement and
+recomposition obligations apply where required. Current default player binaries
+are not replaced merely by adding this notice or by preparing new native AARs.
+
+See docs/licensing.md, docs/credits.md and docs/closed-source-player.md for the
+component boundaries, verification status and remaining distribution requirements.
+No statement of Google Play approval or closed-source release readiness is made.

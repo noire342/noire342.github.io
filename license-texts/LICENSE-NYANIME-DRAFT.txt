@@ -1,0 +1,49 @@
+# Proposed Nyanime licence for original contributions
+
+Review draft — 11 October 2026. This proposes terms for a future, specifically identified release. It is not a blanket proprietary licence for this repository or a change to existing grants.
+
+## 1. Scope and ownership
+
+The proposed licensor is Lorenzo Garrone, [lorenzogarrone2000@gmail.com](mailto:lorenzogarrone2000@gmail.com). These terms may apply only to original Nyanime code/assets for which the licensor owns or has obtained the necessary rights and which a release-specific ownership schedule expressly identifies as covered (the "Original Material"). Copyright is reserved only in that identified material.
+
+The ownership schedule is not complete. No current file, modification, asset or entire application becomes proprietary merely by appearing in this repository or this draft. Before adoption, a release must identify covered paths/materials, their rightsholders and the applicable licence version.
+
+Inherited AniYomi, Mihon and Tachiyomi code, third-party contributions, covered library modifications, models, fonts, measurements and independently licensed assets are excluded from Original Material. Their licences, copyrights, notices and source-delivery obligations remain applicable. A private repository does not change those rights.
+
+Earlier Apache, MIT, BSD and other grants are not withdrawn. Recipients keep the rights previously granted for the material and versions received. Licensing a later original contribution cannot revoke an earlier grant or claim another contributor's copyright.
+
+## 2. Proposed permission
+
+For a release expressly adopting these terms with a completed ownership schedule, the licensor would grant a non-exclusive permission to install, run and make necessary personal backup copies of Original Material as part of that release for personal, non-commercial use. Ownership is not transferred. Further commercial or redistribution permission for Original Material would require a separate grant.
+
+## 3. Proposed restrictions and limits
+
+Unless separately authorized, permitted by law, or permitted by a licence/exception in section 4, users would not redistribute, sublicense, sell, modify, copy beyond permitted use, decompile, disassemble or reverse engineer Original Material, remove applicable copyright notices, or present a modified product as an official Nyanime release.
+
+These limits concern only identified Original Material. They do not restrict independent open-source distribution/use, previous licence rights, or mandatory consumer, interoperability, research or other statutory rights. No ownership of upstream names or trademarks is asserted.
+
+## 4. Open-source rights take precedence
+
+The applicable open-source licence controls its component and any necessary exercise of its rights if these terms conflict. Exercising those rights requires no approval from the Nyanime developer.
+
+Users may modify LGPL-covered library portions and reverse engineer the combined application to debug those modifications to the extent the applicable LGPL permits or requires. Users may replace, recombine or relink relevant libraries, including covered Java/JNI code and statically linked components, using required sources, application/object materials and installation information where applicable. These terms must not obstruct those activities. The actual release must provide the usable materials and replacement route required by its licences; this paragraph does not cure missing sources or an unusable procedure.
+
+MPL-covered source files and covered modifications remain available under the applicable MPL terms. An executable licence cannot limit those source rights. Apache-, MIT-, BSD-, Boost- and other components retain their permissions and notice requirements. The root Apache License 2.0 and inherited notices are preserved.
+
+## 5. Content and external services
+
+Software permission does not grant rights to third-party media, hosts, accounts, modules or marks. Users need appropriate content/service permissions. A `.nyasource` signature verifies a signing key and package integrity, not copyright ownership or permission to access content.
+
+## 6. Warranty and responsibility
+
+For a future release adopting these terms, Original Material would be provided as available, without additional contractual warranties beyond those expressly given or required by law. External-service availability and compatibility cannot be guaranteed. No provision excludes liability, remedies or consumer protections that cannot lawfully be excluded, or promises approval of all uses, dependencies or store submissions.
+
+## 7. Changes and termination
+
+Revised terms would identify their applicable releases without retroactively withdrawing existing grants. Termination for a material breach would affect only permission granted under these terms, subject to applicable law and an appropriate opportunity to remedy the breach. Independent third-party and earlier licence rights would survive.
+
+## 8. Adoption remains pending
+
+Complete the ownership schedule, reconcile contribution history/notices, and deliver actual covered sources and usable replacement/recomposition materials before adoption. Native player replacement, image-decoder MPL/LGPL duties and application-level recomposition are still being verified. No approved proprietary application release accompanies this draft.
+
+Primary texts: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), [LGPL 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html), [LGPL 3](https://www.gnu.org/licenses/lgpl-3.0.html), [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/). Establish the applicable version for each actual component.
