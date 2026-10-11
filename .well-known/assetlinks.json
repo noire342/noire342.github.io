@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.lorelore.nyanime",
+      "sha256_cert_fingerprints": [
+        "53:5D:5E:18:93:9B:32:2B:49:5B:24:2A:A5:02:D3:E9:E0:26:45:09:58:58:60:C4:C2:0F:38:10:F6:9C:1C:11",
+        "AC:52:0A:8D:80:96:FA:BB:C4:F0:FE:3A:D5:F3:D9:29:A2:B5:D5:F1:69:29:AD:CE:C8:BA:CC:FD:30:9F:DE:71"
+      ]
+    }
+  }
+]
