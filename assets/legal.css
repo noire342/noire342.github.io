@@ -33,7 +33,7 @@ h3{font-size:clamp(24px,3vw,31px);font-weight:600;margin:0 0 16px}
 .section-heading .eyebrow{margin-bottom:12px}
 .project-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}
 .project-card{padding:34px;text-decoration:none;display:flex;flex-direction:column;color:var(--ink);min-height:350px}
-.project-card:hover{border-color:#ffffff45;background-color:#2b3344b8}
+a.project-card:hover{border-color:#ffffff45;background-color:#2b3344b8}
 .project-landing{width:min(960px,calc(100% - 48px));min-height:100svh;margin:0 auto;padding:32px 0;display:grid;align-content:center}
 .project-index .project-card{position:relative;min-height:320px;justify-content:center}
 .project-index .project-card h1{font-size:clamp(24px,3.5vw,36px);letter-spacing:-.035em;line-height:1.2;margin:0;overflow-wrap:anywhere}
@@ -43,6 +43,8 @@ h3{font-size:clamp(24px,3vw,31px);font-weight:600;margin:0 0 16px}
 @media(max-width:600px){.project-landing{width:calc(100% - 32px);padding:24px 0}.project-index .project-grid{gap:16px}.project-index .project-card{min-height:245px;padding:28px}.project-index .project-card h1{font-size:30px}.project-arrow{top:24px;right:24px}}
 .project-symbol{width:70px;height:70px;margin-bottom:36px;border-radius:20px}
 span.project-symbol{display:grid;place-items:center;background:#d5d7e312;border:1px solid #d5d7e324;color:#d1d5e8;font-size:47px;line-height:1}
+span.approximation-symbol{background:#dde3ed;border-color:#ffffff30;overflow:hidden}
+.approximation-symbol img{width:70px;height:70px;max-width:none;object-fit:contain;transform:scale(1.6)}
 .project-card .eyebrow{margin-bottom:10px}
 .project-card p:not(.eyebrow){color:var(--muted);font-size:16px;max-width:380px;margin-bottom:32px}
 .card-link{font-size:13px;color:var(--accent);display:flex;justify-content:space-between;gap:12px;margin-top:auto;font-weight:600}
