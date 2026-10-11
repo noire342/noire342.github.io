@@ -1,0 +1,36 @@
+# Nyanime release-specific licence adoption — candidate 204
+
+Record date: **11 October 2026**. Licensor: Lorenzo Garrone, [lorenzogarrone2000@gmail.com](mailto:lorenzogarrone2000@gmail.com).
+
+## Identified Binary Release
+
+- Product: Nyanime Android, **Play** variant.
+- Application package: `it.lorelore.nyanime`.
+- Version name: **0.40.0.1**.
+- Android version code: **204**.
+- Selected additional terms: **Nyanime Binary Release Licence version 1.0**, recipient text in `LICENSE-NYANIME.md` and bundled `legal/LICENSE-NYANIME-204.txt`.
+- Rights statement: `docs/rights-statement-204.md` and bundled `legal/RIGHTS-STATEMENT-204.txt`.
+
+The licensor selects these additional terms for this specifically identified Binary Release and for the licensor's authorised rights only. For Apache-licensed Derivative Works the scope includes Object form as a whole, as permitted by Apache 2.0 section 4, while preserving its conditions and independently applicable rights. Selection of these terms is not adoption of them as a new licence for every source file and does not confer ownership of upstream material.
+
+## Rights and texts preserved
+
+The root Apache `LICENSE`, inherited `NOTICE`, required change notices, source notices and earlier grants remain effective. Original Material is limited by the accompanying rights statement: inherited work, independently licensed material, covered modifications, user material and unverified third-party assets are excluded. No prior Apache grant or other received permission is revoked by this record.
+
+Open-source, applicable linking exceptions and mandatory statutory rights take precedence where they conflict with the additional terms, with no further approval requirement. The EULA preserves required LGPL modification, reverse engineering for debugging modifications, replacement and relinking/recombination rights and MPL covered-source rights.
+
+## Recipient delivery and rollout
+
+Bundled legal Terms contains the complete selected EULA and rights statement offline. Bundled Licences preserves readable copies of the Apache text and inherited NOTICE and explains the independently licensed component boundary. Component licence/notice texts and required source or replacement materials must accompany the actual shipped components through usable recipient delivery methods; a private source repository is not a substitute for required delivery.
+
+The final LGPL Java/DEX, application/object and replacement/recomposition materials and procedure are **still pending** and must be available to recipients before rollout. The native-component source packages and notice copies are a distinct part of that delivery. An EULA exception alone, an upstream link alone or publication of native archives alone does not close the complete application's LGPL boundary.
+
+For Apache/BSD/MIT and other permissive inputs, retain their actual applicable licences, notices and disclaimers. Missing optional rebuild or native-revision evidence does not create a corresponding-source requirement absent from the component's applicable licence. Do not treat this statement as excusing an actual incompatible licence or missing required notice or source/replacement delivery.
+
+## Artifact identity and limits
+
+This record binds the specified package/version/code and licence text. It does not claim an APK/AAB has been generated or released and contains no fabricated artifact or signing hash. The final artifact may be recorded separately using its actual SHA-256 and signing identity, without exposing signing keys. Hashes are useful identifiers and engineering evidence, not blanket certification formalities imposed by Apache/BSD/MIT.
+
+Licence selection does not assert Google Play approval, global licence compliance, title to unverified assets, completed recomposition or successful runtime/device tests. Earlier binary releases and already granted rights are not retroactively changed.
+
+Primary licence texts: [Apache 2.0, especially section 4](https://www.apache.org/licenses/LICENSE-2.0), [LGPL 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html), [LGPL 3](https://www.gnu.org/licenses/lgpl-3.0.html), [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/).

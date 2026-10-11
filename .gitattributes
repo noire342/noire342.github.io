@@ -1,0 +1,5 @@
+# Corresponding-source deliveries and their checksum manifests are byte-exact.
+nyanime/licenses/components/** -text
+license-texts/LICENSE-NYANIME-204.txt -text
+license-texts/RIGHTS-STATEMENT-204.txt -text
+license-texts/LICENSE-ADOPTION-204.txt -text

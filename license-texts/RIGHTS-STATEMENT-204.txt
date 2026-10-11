@@ -1,0 +1,29 @@
+# Nyanime Binary Release 204 — rights statement
+
+Release: Nyanime Android Play variant, package `it.lorelore.nyanime`, version **0.40.0.1**, Android version code **204**. Licence selection: Nyanime Binary Release Licence **version 1.0**, dated **11 October 2026**. Licensor: Lorenzo Garrone, [lorenzogarrone2000@gmail.com](mailto:lorenzogarrone2000@gmail.com).
+
+## Scope of the licensor's claim
+
+The licensor asserts additional terms only within rights the licensor actually owns or is authorised to grant. “Original Material” covers only original Nyanime contributions and original arrangements incorporated in this Binary Release for which those necessary rights are held. It is not a claim that every Nyanime-labelled file, feature, modification, graphic or asset was written or exclusively owned by the licensor. A private repository, build, signature or application package name does not establish copyright ownership.
+
+For any Apache-licensed Derivative Work, the additional terms address authorised material and the Derivative Work in **Object form as a whole**, subject to Apache 2.0 section 4 and the other applicable licences. This is a choice of additional binary terms; it is not ownership of the upstream Work, an exclusive right in every component, or a replacement source licence for the repository.
+
+## Material excluded from Original Material
+
+- Inherited AniYomi, Mihon, Tachiyomi and other third-party source, contributions and independently licensed arrangements.
+- Independently licensed libraries, upstream Java/JNI wrappers, shaders, models, fonts, icons, other assets and material made available under its own terms.
+- Modifications subject to LGPL, MPL or another independently applicable covered-source licence, within that licence's actual scope.
+- Material whose third-party origin, permissions or ownership have not been established. No permission or title to that material is supplied by this statement.
+- User imports, personal source modules, user-created material and third-party media, service accounts or marks.
+
+No file-by-file exclusive-authorship or ownership certification is made here. An unresolved provenance item is not silently assigned to the licensor. This limitation does not convert a missing optional engineering receipt for an otherwise permissively licensed dependency into a new source-delivery obligation.
+
+## Existing licences and grants
+
+The repository Apache `LICENSE` and inherited `NOTICE` remain unchanged. Existing source-file notices, contribution terms and previously granted Apache or other rights remain effective for the material and versions received. This record does not revoke them, convert already granted rights into proprietary rights, or attribute inherited work to the licensor.
+
+Independently applicable permissions and obligations prevail automatically wherever the additional terms conflict. Recipients need no further developer approval to exercise them. Required LGPL modification, reverse engineering for debugging modifications, library replacement, relinking/recombination and applicable installation-information rights are preserved. MPL-covered source and covered modifications retain their source rights.
+
+## Candidate and delivery status
+
+This statement identifies candidate 204 and limits its additional licence scope. It does not assert that an AAB exists, that the candidate has been distributed, that Google Play approved it, or that every provenance, source, notice, replacement or runtime check has passed. The final LGPL Java/DEX, application/object and usable replacement/recomposition delivery is still being completed and must be available to recipients before rollout. Native source bundles or contractual exceptions alone do not complete that obligation.

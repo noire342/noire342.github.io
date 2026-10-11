@@ -1,0 +1,53 @@
+# Nyanime Binary Release Licence — version 1.0
+
+## 1. Applicable release and licensor
+
+The licensor is Lorenzo Garrone, contact [lorenzogarrone2000@gmail.com](mailto:lorenzogarrone2000@gmail.com).
+
+“Binary Release” means the Nyanime Android package `it.lorelore.nyanime`, Play variant, version **0.40.0.1**, Android version code **204**, as identified in the accompanying release adoption record dated **11 October 2026**. The record may also include an artifact checksum to distinguish that exact build. This licence applies to that release only.
+
+“Original Material” means original Nyanime contributions and arrangements for which the licensor owns or holds the necessary rights. It excludes inherited and independently licensed third-party material, including that material's covered modifications. No upstream code or asset becomes owned by the licensor through inclusion in Nyanime, private storage or this licence. The accompanying rights statement identifies the material the licensor claims; unidentified third-party or unverified material is not represented as owned by the licensor.
+
+For an Apache-licensed Derivative Work in the Binary Release, these are additional terms for the licensor's authorised material and the Derivative Work in Object form as a whole, as permitted by Apache 2.0 section 4 and other applicable licences. This does not change the repository's Apache LICENSE, remove upstream permissions or label every source file proprietary. Section 4 below controls all exclusions.
+
+## 2. Permission
+
+Subject to these terms and section 4, you may install, run and make necessary personal backup copies of the Binary Release for personal, non-commercial use. Ownership is not transferred. Further commercial use or redistribution of Original Material or the Binary Release under these additional terms requires a separate grant, except where an independently applicable licence or law already permits it.
+
+## 3. Additional restrictions
+
+Except as permitted here, by section 4, by a separate grant or by applicable law, you may not redistribute, sell, sublicense, modify or copy the licensor's protected material beyond the granted permission, or decompile, disassemble or reverse engineer it. You may not remove applicable copyright/licence notices or present a modified product as an official Nyanime release without authorisation.
+
+These restrictions apply only to rights the licensor can lawfully control. They do not claim exclusivity in upstream software or prevent independent open-source, interoperability, repair, research, consumer or other mandatory rights.
+
+## 4. Open-source, statutory and earlier rights prevail
+
+Independently licensed components retain their own licences and exceptions. Their permissions and obligations take precedence automatically wherever these additional terms conflict, including activities necessary to exercise those permissions. No separate approval from the Nyanime developer is required. An inventory omission does not extinguish an independently granted right.
+
+Apache, MIT, BSD, Boost and other applicable permissions remain effective for the material they cover. Required licences and readable notices accompany the Binary Release or its recipient documentation. Applicable Apache redistribution conditions continue to apply: supply its licence, retain required NOTICE attribution, place change notices in modified files and preserve relevant source notices when source is distributed. Apache/BSD/MIT components do not acquire a corresponding-source or rebuilding obligation solely because they are distributed with Nyanime under this licence.
+
+For an LGPL-covered combination, you may modify the combined work for your own use and reverse engineer it to debug those modifications to the extent required by the applicable LGPL. You may modify or replace covered libraries and relink, recombine or rebuild the application with them, including relevant Java/JNI and statically linked components, using the source, application/object materials and installation information required by the applicable licence. These terms do not obstruct those activities or add a permission requirement. Required usable materials and procedures must actually be provided; this clause alone does not supply them.
+
+MPL-covered source and covered modifications retain their applicable MPL terms and must be made available as that licence requires. This executable licence does not restrict those source rights. Any other applicable copyleft licence or linking exception remains effective within its actual scope. This licence does not cure an actual incompatibility with such obligations.
+
+Earlier grants are preserved for the material and versions received, including prior Apache grants. These terms do not revoke them or retroactively change an earlier release. Mandatory rights under applicable law prevail over any conflicting restriction.
+
+## 5. External material and services
+
+This software licence does not grant rights to third-party media, services, accounts or marks. Obtain the permissions required for your use. No upstream endorsement or ownership of upstream trademarks is claimed.
+
+## 6. Warranty and responsibility
+
+Except for commitments expressly given or required by law, the Binary Release and Original Material are supplied as available without additional contractual warranties. External-service availability, compatibility and uninterrupted operation are not guaranteed. Independent component disclaimers remain applicable under their own terms.
+
+Nothing excludes liability, remedies or consumer protections that cannot lawfully be excluded. Additional Nyanime support or warranty commitments are made by the licensor alone, not upstream contributors. This licence is not a certification of ownership of third-party material, Google Play approval or compliance of every historical build.
+
+## 7. Changes and termination
+
+Revised terms identify the releases to which they apply and do not withdraw earlier grants. Termination for a material breach affects only permissions granted under these additional terms, subject to applicable law and an appropriate opportunity to remedy the breach. Independent component and earlier licence rights survive according to their own terms.
+
+## 8. Release adoption
+
+The release record identifies the applicable version and effective licence text. The adopted release supplies required licence/notice texts and any component-specific source/replacement materials actually required by its licences. These must reach recipients through real, usable delivery methods; a private source repository or unrelated upstream branch is not a substitute where corresponding source is required.
+
+Missing optional engineering evidence for a permissive dependency does not, by itself, prevent adoption. Adoption does not assert upstream ownership, supply absent copyright permissions or excuse an actual notice, LGPL/MPL source or replacement obligation.
