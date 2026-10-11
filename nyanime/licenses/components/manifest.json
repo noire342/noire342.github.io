@@ -1,0 +1,526 @@
+{
+  "schemaVersion": 1,
+  "preparedDate": "2026-10-11",
+  "status": "development_candidate_native_component_materials",
+  "maximumPartBytes": 50331648,
+  "components": [
+    {
+      "id": "player-r28c-arm64",
+      "name": "Native player: mpv / FFmpeg / FFmpegKit (arm64, NDK r28c)",
+      "abi": "arm64-v8a",
+      "state": "native_source_archive_prepared_pending_distribution_and_recomposition_review",
+      "archive": {
+        "filename": "player-r28c-arm64-corresponding-sources.tar.gz",
+        "bytes": 130362260,
+        "sha256": "2628b2c47998d50f3a43a22cce13775f4320dfa3f6cd26ab57c0ef83666d6d89",
+        "parts": [
+          {
+            "file": "parts/player-r28c-arm64/player-r28c-arm64.tar.gz.part001",
+            "bytes": 50331648,
+            "sha256": "a828995d7183d5a9bd300fa7448b2471ae7ce5e5679378bf5777215e0d32942b"
+          },
+          {
+            "file": "parts/player-r28c-arm64/player-r28c-arm64.tar.gz.part002",
+            "bytes": 50331648,
+            "sha256": "3567127049c5c5969a231120015f1400a4a931c259beeaa002d89d08be56fef5"
+          },
+          {
+            "file": "parts/player-r28c-arm64/player-r28c-arm64.tar.gz.part003",
+            "bytes": 29698964,
+            "sha256": "c35c0e7c9ee1f692379ea264baa1e43083d0deeffd6d44cf8ab52c1649a21b2d"
+          }
+        ]
+      },
+      "archiveIndex": "indexes/player-r28c-arm64.json",
+      "archiveMembers": 26328,
+      "regularFiles": 24759,
+      "sourceRevisions": [
+        {
+          "path": "mpv-android",
+          "url": "https://github.com/aniyomiorg/aniyomi-mpv-lib.git",
+          "commit": "da7c885c18ae117ca27239c562ea7572fce3d4f5",
+          "license": "MIT",
+          "submodules": ""
+        },
+        {
+          "path": "ffmpeg-kit",
+          "url": "https://github.com/jmir1/ffmpeg-kit.git",
+          "commit": "0f1bfb5d9ca2711e723406b25f0aa6a0c1500826",
+          "license": "LGPL-3.0-or-later",
+          "submodules": ""
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/mpv",
+          "url": "https://github.com/mpv-player/mpv.git",
+          "commit": "d82701962f99051a18d65c215b70d41ebadd9a22",
+          "license": "LGPL-2.1-or-later (gpl=false)",
+          "submodules": ""
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/ffmpeg",
+          "url": "https://github.com/FFmpeg/FFmpeg.git",
+          "commit": "b08d7969c550a804a59511c7b83f2dd8cc0499b8",
+          "license": "LGPL-3.0-or-later (GPL and nonfree disabled)",
+          "submodules": ""
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/mbedtls",
+          "url": "https://github.com/Mbed-TLS/mbedtls.git",
+          "commit": "107ea89daaefb9867ea9121002fbbdf926780e98",
+          "license": "Apache-2.0",
+          "submodules": " 94599c0e3b5036e086446a51a3f79640f70f22f6 framework (94599c0)"
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/libxml2",
+          "url": "https://gitlab.gnome.org/GNOME/libxml2.git",
+          "commit": "de918d45e1b2276a28a4cd32bcf556bef65284e4",
+          "license": "MIT",
+          "submodules": ""
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/dav1d",
+          "url": "https://github.com/videolan/dav1d.git",
+          "commit": "32cf02af50f32af108a3b281c452788dccdac648",
+          "license": "BSD-2-Clause",
+          "submodules": ""
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/freetype2",
+          "url": "https://github.com/freetype/freetype.git",
+          "commit": "42608f77f20749dd6ddc9e0536788eaad70ea4b5",
+          "license": "FTL",
+          "submodules": " 72dfcc858c040c54a6a0b88fcb7e70ee186d3167 subprojects/dlg (72dfcc8)"
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/fribidi",
+          "url": "https://github.com/fribidi/fribidi.git",
+          "commit": "68162babff4f39c4e2dc164a5e825af93bda9983",
+          "license": "LGPL-2.1-or-later",
+          "submodules": ""
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/harfbuzz",
+          "url": "https://github.com/harfbuzz/harfbuzz.git",
+          "commit": "9ef44a2d67ac870c1f7f671f6dc98d08a2579865",
+          "license": "MIT",
+          "submodules": ""
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/unibreak",
+          "url": "https://github.com/adah1972/libunibreak.git",
+          "commit": "304585d8e2d63187507368d612c3d5fff1486368",
+          "license": "Zlib",
+          "submodules": ""
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/libass",
+          "url": "https://github.com/libass/libass.git",
+          "commit": "e46aedea0a0d17da4c4ef49d84b94a7994664ab5",
+          "license": "ISC",
+          "submodules": ""
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/libplacebo",
+          "url": "https://github.com/haasn/libplacebo.git",
+          "commit": "1fd3c7bde7b943fe8985c893310b5269a09b46c5",
+          "license": "LGPL-2.1-or-later",
+          "submodules": " d732b2de303ce505169011d438178191136bfb00 3rdparty/Vulkan-Headers (d732b2d)\n 2b2395f9ac836ffca6404424bcc252bff7aa80e4 3rdparty/fast_float (2b2395f)\n d08b1aa01f8fe57498f04d47b5fa8c48725be877 3rdparty/glad (d08b1aa)\n b08cd4bc64bb980df86ed2876978ae5735572280 3rdparty/jinja (b08cd4b)\n c0254f0cfe51720ecc9e72e8896022af29af5b44 3rdparty/markupsafe (c0254f0)\n c512ac886425f6b6b6c816d67f4cb1385cd4cc53 demos/3rdparty/nuklear (c512ac8)"
+        },
+        {
+          "path": "cpu-features",
+          "url": "https://github.com/arthenica/cpu_features.git",
+          "commit": "936b9ab5515dead115606559502e3864958f7f6e",
+          "license": "Apache-2.0",
+          "submodules": ""
+        },
+        {
+          "path": "mpv-android/buildscripts/deps/lua",
+          "url": "https://www.lua.org/ftp/lua-5.2.4.tar.gz",
+          "sha256": "b9e2e4aad6789b3b63a056d442f7b39f0ecfca3ae0f1fc0ae4e9614401b69f4b",
+          "license": "MIT"
+        }
+      ],
+      "publicTestFixtures": {
+        "mbedtlsRevision": "107ea89daaefb9867ea9121002fbbdf926780e98",
+        "frameworkRevision": "94599c0e3b5036e086446a51a3f79640f70f22f6",
+        "exactPublicFilesMatched": 154,
+        "note": "The exact source archive retains public upstream cryptographic test keys and generated old outputs. They are not user credentials. Recipient preparation preserves metadata and generated outputs separately before rebuilding."
+      },
+      "notices": [
+        {
+          "file": "notices/player-r28c-arm64/catalog.json",
+          "bytes": 2566,
+          "sha256": "a98d83afe9aaf37797af41422e4d01656a7aba2310954097afb00bff1461dc1c"
+        },
+        {
+          "file": "notices/player-r28c-arm64/cpu-features.txt",
+          "bytes": 13038,
+          "sha256": "173480d0dc9da53b60dd50ae2eb5e22d381b73f8db79c7ab3cd3e37f58dc82c3"
+        },
+        {
+          "file": "notices/player-r28c-arm64/dav1d.txt",
+          "bytes": 1466,
+          "sha256": "658892e0892a8d91ec4eb6701893fdae2b80f51e38626a448bf2d825df57d902"
+        },
+        {
+          "file": "notices/player-r28c-arm64/ffmpeg-kit.txt",
+          "bytes": 7812,
+          "sha256": "ddaf11ed4b6c776e58b0999cfa33f08f9defad3ede9c6e100b2cc915bbae3027"
+        },
+        {
+          "file": "notices/player-r28c-arm64/ffmpeg.txt",
+          "bytes": 47403,
+          "sha256": "a54236d3e7739e117b7fb8ece763173bdc37fad43692cdada4eedfbf4dbea39f"
+        },
+        {
+          "file": "notices/player-r28c-arm64/freetype2.txt",
+          "bytes": 6908,
+          "sha256": "b160dc8336c34b8d4cd209d0a238677442cbc7307d2dfc0e1618e6514ac0afc8"
+        },
+        {
+          "file": "notices/player-r28c-arm64/fribidi.txt",
+          "bytes": 26597,
+          "sha256": "e4e5f629bcdc17eb4e5d759ed22ad69d6403a8352dddfcc769abf67bebdd9853"
+        },
+        {
+          "file": "notices/player-r28c-arm64/harfbuzz.txt",
+          "bytes": 2117,
+          "sha256": "0b8d4f8c4ae7ba8bf501c668ca1701d2077c9bc7fcee53f4fb42cc4c5074f78f"
+        },
+        {
+          "file": "notices/player-r28c-arm64/libass.txt",
+          "bytes": 895,
+          "sha256": "bd192a796b13f7131c40fc9f1c75bcf450c43014b5066c84ef9c230820d543ac"
+        },
+        {
+          "file": "notices/player-r28c-arm64/libplacebo.txt",
+          "bytes": 24639,
+          "sha256": "15989dfbc3e1dd2674e27a972e11e636ad59496489d9083e9c5ce262a333d408"
+        },
+        {
+          "file": "notices/player-r28c-arm64/libxml2.txt",
+          "bytes": 1422,
+          "sha256": "f54a1f803dd2e69cd24fdaae2b8208ddcde62505147e64e21013deecedcb811c"
+        },
+        {
+          "file": "notices/player-r28c-arm64/lua.txt",
+          "bytes": 1072,
+          "sha256": "32f0313d1d95bbc515247e81e0ef6db3cf1d61a0a310f10960f85415ebdc0e43"
+        },
+        {
+          "file": "notices/player-r28c-arm64/mbedtls.txt",
+          "bytes": 30003,
+          "sha256": "0b9dbd1d41e0e78bb650588cf0f85448757b92c044c3e69a39e0cad7a08ceb87"
+        },
+        {
+          "file": "notices/player-r28c-arm64/mpv-android.txt",
+          "bytes": 1257,
+          "sha256": "78ebcfe61d2a85c4115804f3fbbf11016e6dd5ffac7a40cc48f51390d37a3873"
+        },
+        {
+          "file": "notices/player-r28c-arm64/mpv.txt",
+          "bytes": 30815,
+          "sha256": "d6123910c3b3d566b980803f436fc449cd2b7af1f495d4b67619ea6025590588"
+        },
+        {
+          "file": "notices/player-r28c-arm64/unibreak.txt",
+          "bytes": 1516,
+          "sha256": "da18001c03f545def7bd343f02960d545d638e2d2a403753c2d62fabb4409197"
+        }
+      ]
+    },
+    {
+      "id": "image-decoder-arm64",
+      "name": "Image decoder (arm64, original NDK r27c source build)",
+      "abi": "arm64-v8a",
+      "state": "native_source_archive_prepared_pending_distribution_and_recomposition_review",
+      "archive": {
+        "filename": "image-decoder-arm64-corresponding-sources.tar.gz",
+        "bytes": 157979172,
+        "sha256": "e8b3077effe962bfab4da4e937bda9039cf66cbd480624b5fc33b71b65a70c72",
+        "parts": [
+          {
+            "file": "parts/image-decoder-arm64/image-decoder-arm64.tar.gz.part001",
+            "bytes": 50331648,
+            "sha256": "fe09eccad2f3d55138de62c5dfca82c4aad18756d17979f3e32197cf2aeafa15"
+          },
+          {
+            "file": "parts/image-decoder-arm64/image-decoder-arm64.tar.gz.part002",
+            "bytes": 50331648,
+            "sha256": "cd17c72042eeb8273c72d7e675247e593dc407673ac879680d774e286f2e4503"
+          },
+          {
+            "file": "parts/image-decoder-arm64/image-decoder-arm64.tar.gz.part003",
+            "bytes": 50331648,
+            "sha256": "7da6fdc0d71d9d6e3931e390f57e202f3f980763b38a6f56e19af95c07843cc5"
+          },
+          {
+            "file": "parts/image-decoder-arm64/image-decoder-arm64.tar.gz.part004",
+            "bytes": 6984228,
+            "sha256": "567a1cc0cbf16f0c5e1e88fe166cff8352bc7a90091cda8d70f896f47ea2db95"
+          }
+        ]
+      },
+      "archiveIndex": "indexes/image-decoder-arm64.json",
+      "archiveMembers": 7215,
+      "regularFiles": 6494,
+      "sourceRevisions": [
+        {
+          "path": "decoder",
+          "url": "https://github.com/tachiyomiorg/image-decoder.git",
+          "commit": "41c059e5405c1d982c937767707270ee96c32614",
+          "license": "MPL-2.0",
+          "submodules": ""
+        },
+        {
+          "path": "deps/lcms2",
+          "url": "https://github.com/mm2/Little-CMS.git",
+          "commit": "453bafeb85b4ef96498866b7a8eadcc74dff9223",
+          "license": "MIT",
+          "submodules": ""
+        },
+        {
+          "path": "deps/libjpeg-turbo",
+          "url": "https://github.com/libjpeg-turbo/libjpeg-turbo.git",
+          "commit": "fd93d98a959ac3700e2da07310a44867c9c46f03",
+          "license": "BSD-3-Clause / IJG / Zlib",
+          "submodules": ""
+        },
+        {
+          "path": "deps/libpng",
+          "url": "https://github.com/glennrp/libpng.git",
+          "commit": "35d9f5ea523cb4f9d677af4705e00ddd185ed10e",
+          "license": "Libpng-2.0",
+          "submodules": ""
+        },
+        {
+          "path": "deps/libwebp",
+          "url": "https://chromium.googlesource.com/webm/libwebp",
+          "commit": "ca332209cb5567c9b249c86788cb2dbf8847e760",
+          "license": "BSD-3-Clause",
+          "submodules": ""
+        },
+        {
+          "path": "deps/libheif",
+          "url": "https://github.com/strukturag/libheif.git",
+          "commit": "5fb52b6134d5e034b51637a86c6e8a7418b35df1",
+          "license": "LGPL-3.0-or-later",
+          "submodules": ""
+        },
+        {
+          "path": "deps/libde265",
+          "url": "https://github.com/strukturag/libde265.git",
+          "commit": "b578ae56eb2eb257e19158282c2af9d552565c1c",
+          "license": "LGPL-3.0-or-later",
+          "submodules": ""
+        },
+        {
+          "path": "deps/dav1d",
+          "url": "https://github.com/videolan/dav1d.git",
+          "commit": "bb645893f374ab694b10a79f1205a728e010f2c9",
+          "license": "BSD-2-Clause",
+          "submodules": ""
+        },
+        {
+          "path": "deps/libjxl",
+          "url": "https://github.com/libjxl/libjxl.git",
+          "commit": "19bcd827dbf44bdc7ef30af8925696a5b82dcdf2",
+          "license": "BSD-3-Clause plus pinned submodule licences",
+          "submodules": " ff8d743aaba05b3014f17e5475e576242fa979fc testdata (ff8d743)\n 36533a866ed1ca4b75cf049f4521e4ec5fe24727 third_party/brotli (36533a8)\n 58d77fa8070e8cec2dc1ed015d66b454c8d78850 third_party/googletest (58d77fa)\n 58b52a717469e62b2d9b8eaa2f5dddb44d4a4cbf third_party/highway (58b52a7)\n 65c63bf549d78253c14b30b3d62cb668bbbe612c third_party/lcms (65c63bf)\n 8ecba3647edb6dd940463fedf38ca33a8e2a73d1 third_party/libjpeg-turbo (8ecba36)\n f135775ad4e5d4408d2e12ffcc71bb36e6b48551 third_party/libpng (f135775)\n e5ab13008bb214deb66d5f3e17ca2f8dbff150bf third_party/sjpeg (e5ab130)\n 42030a771244ba67f86b1c1c76a6493f873c5f91 third_party/skcms (42030a7)\n 51b7f2abdade71cd9bb0e7a373ef2610ec6f9daf third_party/zlib (51b7f2a)"
+        }
+      ],
+      "notices": [
+        {
+          "file": "notices/image-decoder-arm64/catalog.json",
+          "bytes": 1610,
+          "sha256": "ef9a04d4e4b84e721ff81c7c319bd97c8b7689a5f3c69b45d0394e190c14f857"
+        },
+        {
+          "file": "notices/image-decoder-arm64/dav1d.txt",
+          "bytes": 1423,
+          "sha256": "2e71107bf1fc63b027ace7274920a9a7fce041eac88547b4673ff07765212a32"
+        },
+        {
+          "file": "notices/image-decoder-arm64/decoder.txt",
+          "bytes": 16843,
+          "sha256": "5d960601060a0dc74a7dccdadb798fca84f33af0feb03f968c846b84acdb8347"
+        },
+        {
+          "file": "notices/image-decoder-arm64/lcms2.txt",
+          "bytes": 1186,
+          "sha256": "dd4b8ceeeade8e1e9e7d58f3092001da70cf290d461199daf35c114621667aeb"
+        },
+        {
+          "file": "notices/image-decoder-arm64/libde265.txt",
+          "bytes": 44450,
+          "sha256": "8ca16152256854d1d3ad1590a5ef5f51e5959b639acb2ff9cec15d42f70120e8"
+        },
+        {
+          "file": "notices/image-decoder-arm64/libheif.txt",
+          "bytes": 44448,
+          "sha256": "355fd38cd28f40ef05d2300646d19bd29567065b740400fe460b871e21e57c14"
+        },
+        {
+          "file": "notices/image-decoder-arm64/libjpeg-turbo.txt",
+          "bytes": 34595,
+          "sha256": "c12002cbdb78b32d4ea0dee52a48be96b6f9707c9e0afc10a34f540b50d61ee3"
+        },
+        {
+          "file": "notices/image-decoder-arm64/libjxl.txt",
+          "bytes": 82643,
+          "sha256": "f124dcf70908eb0244bffb8e8187486dba48e219b3823154f1d203444315aa56"
+        },
+        {
+          "file": "notices/image-decoder-arm64/libpng.txt",
+          "bytes": 5451,
+          "sha256": "510babb9f89ce06acb83a25a6de56ae18c3e2a1964ec0554acd8a4f4cac84ab1"
+        },
+        {
+          "file": "notices/image-decoder-arm64/libwebp.txt",
+          "bytes": 1611,
+          "sha256": "e2e7f0182f3ce1cac08f39fb0b2903ad0697f04846bdbe43a4d1bbe74230b4c5"
+        }
+      ]
+    },
+    {
+      "id": "sqlite-arm64",
+      "name": "SQLite 3.45.0 Android JNI (arm64, NDK r28c)",
+      "abi": "arm64-v8a",
+      "state": "native_source_archive_prepared_pending_distribution_and_recomposition_review",
+      "archive": {
+        "filename": "sqlite-arm64-corresponding-sources.tar.gz",
+        "bytes": 5450902,
+        "sha256": "12244b35453860694e94f490a7e30c834e926d072833cbed219af9651a82fa1f",
+        "parts": [
+          {
+            "file": "parts/sqlite-arm64/sqlite-arm64.tar.gz.part001",
+            "bytes": 5450902,
+            "sha256": "12244b35453860694e94f490a7e30c834e926d072833cbed219af9651a82fa1f"
+          }
+        ]
+      },
+      "archiveIndex": "indexes/sqlite-arm64.json",
+      "archiveMembers": 137,
+      "regularFiles": 110,
+      "sourceRevisions": [
+        {
+          "url": "https://github.com/requery/sqlite-android",
+          "commit": "12e9161c9c6a989922981d0ea4defd9ca1defb30",
+          "license": "Apache-2.0"
+        },
+        {
+          "url": "https://www.sqlite.org/2024/sqlite-amalgamation-3450000.zip",
+          "sha256": "bde30d13ebdf84926ddd5e8b6df145be03a577a48fd075a087a5dd815bcdf740",
+          "license": "SQLite public-domain dedication"
+        }
+      ],
+      "notices": [
+        {
+          "file": "notices/sqlite-arm64/catalog.json",
+          "bytes": 355,
+          "sha256": "1dc644a316e0cadda49b7c79793711ce9b685f7923f5388716151a79b955cf91"
+        },
+        {
+          "file": "notices/sqlite-arm64/sqlite.txt",
+          "bytes": 427,
+          "sha256": "49cf7bcb103eb3244150a23bb23d840370a4762914faf1b450072a4b03c14670"
+        },
+        {
+          "file": "notices/sqlite-arm64/wrapper.txt",
+          "bytes": 11357,
+          "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+        }
+      ]
+    },
+    {
+      "id": "libarchive-1.1.6",
+      "name": "Libarchive Android 1.1.6",
+      "abi": "arm64-v8a",
+      "state": "permissive_component_notices_and_official_source_reference_no_local_source_archive_claim",
+      "officialCoordinate": "me.zhanghai.android.libarchive:library:1.1.6",
+      "officialAarSha256": "06d97a37872a9574ceb2bf94a3ad8dc38fcc89a60f2424067b20eb5efaa62189",
+      "officialSourceRevision": "d3ee9c472173fcaf28e737f59dd34ef6cf3d1c88",
+      "officialSourceUrl": "https://github.com/zhanghai/libarchive-android/tree/d3ee9c472173fcaf28e737f59dd34ef6cf3d1c88",
+      "notices": [
+        {
+          "file": "notices/libarchive-1.1.6/bzip2.txt",
+          "bytes": 1896,
+          "sha256": "c6dbbf828498be844a89eaa3b84adbab3199e342eb5cb2ed2f0d4ba7ec0f38a3"
+        },
+        {
+          "file": "notices/libarchive-1.1.6/catalog.json",
+          "bytes": 1222,
+          "sha256": "bf136201c7ae99daff6eb35f5928d3a8c5ca45e275f0de0cb6d7eac5bde45cf7"
+        },
+        {
+          "file": "notices/libarchive-1.1.6/libarchive.txt",
+          "bytes": 3089,
+          "sha256": "30e556b3959e3985d66efefec5eaac51d4995053caa1d3cffe6eb916f146f229"
+        },
+        {
+          "file": "notices/libarchive-1.1.6/lz4.txt",
+          "bytes": 646,
+          "sha256": "4bc9c403f6b679cc076dee210e0e21c27b4e8f6d3fb43d85364c76657bfaaac5"
+        },
+        {
+          "file": "notices/libarchive-1.1.6/mbedtls.txt",
+          "bytes": 29852,
+          "sha256": "9b405ef4c89342f5eae1dd828882f931747f71001cfba7d114801039b52ad09b"
+        },
+        {
+          "file": "notices/libarchive-1.1.6/wrapper.txt",
+          "bytes": 11358,
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        },
+        {
+          "file": "notices/libarchive-1.1.6/xz-components.txt",
+          "bytes": 3119,
+          "sha256": "616a3ad264ce29b8f1cb97e53037b139d406899ca8d1f799651e17bfa09830b8"
+        },
+        {
+          "file": "notices/libarchive-1.1.6/xz.txt",
+          "bytes": 607,
+          "sha256": "0b01625d853911cd0e2e088dcfb743261034a091bb379246cb25a14cc4c74bf1"
+        },
+        {
+          "file": "notices/libarchive-1.1.6/zstd.txt",
+          "bytes": 1549,
+          "sha256": "7055266497633c9025b777c78eb7235af13922117480ed5c674677adc381c9d8"
+        }
+      ],
+      "note": "The selected permissive component's copyright/licence notices are provided. This source link is a reference, not an attested complete corresponding-source archive or native rebuild receipt. No LGPL source duty is inferred solely for this component."
+    },
+    {
+      "id": "cpp-runtime-r28c-notices",
+      "name": "Selected NDK r28c C++ runtime notices",
+      "state": "permissive_runtime_notices",
+      "ndkVersion": "28.2.13676358",
+      "llvmRevision": "97a699bf4812a18fb657c2779f5296a4ab2694d2",
+      "notices": [
+        {
+          "file": "notices/cpp-runtime-r28c/Android-libcxx-LICENSE.txt",
+          "bytes": 16703,
+          "sha256": "539dd7aed86e8a4f12cbdd0e6c50c189c7d74847e4fecc64ce2c6ee3a01da38b"
+        },
+        {
+          "file": "notices/cpp-runtime-r28c/Android-libcxxabi-LICENSE.txt",
+          "bytes": 16706,
+          "sha256": "e2b35be49f7284a45b7baca8fc7b3ab7440e7902392b2528a457816b5bb2a15c"
+        }
+      ]
+    }
+  ],
+  "supplementalDecoderRecipe": {
+    "file": "recipes/rebuild_decoder_archive.py",
+    "bytes": 11618,
+    "sha256": "861d661a185f611ba6e5433f8cb25b35c6fd8999622d952a802434f6a7804029",
+    "provenance": "Supplemental recipient recipe copied unchanged from the candidate's decoder rebuild helper; not present inside the immutable original decoder archive."
+  },
+  "scope": "Third-party native source/notice delivery only. No private Nyanime application source, source catalogue, application credential or user signing key is deliberately included. Public upstream test fixtures remain intact.",
+  "pending": [
+    "LGPL Java/DEX boundary and donor materials",
+    "Recipient APK reconstruction and covered-library replacement proof",
+    "Final candidate artifact/split linkage",
+    "Device/runtime tests and distribution review"
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "decoder",
+    "website": "https://github.com/tachiyomiorg/image-decoder",
+    "licenseName": "MPL-2.0",
+    "asset": "licenses/image-decoder/decoder.txt"
+  },
+  {
+    "name": "lcms2",
+    "website": "https://github.com/mm2/Little-CMS",
+    "licenseName": "MIT",
+    "asset": "licenses/image-decoder/lcms2.txt"
+  },
+  {
+    "name": "libjpeg-turbo",
+    "website": "https://github.com/libjpeg-turbo/libjpeg-turbo",
+    "licenseName": "BSD-3-Clause / IJG / Zlib",
+    "asset": "licenses/image-decoder/libjpeg-turbo.txt"
+  },
+  {
+    "name": "libpng",
+    "website": "https://github.com/glennrp/libpng",
+    "licenseName": "Libpng-2.0",
+    "asset": "licenses/image-decoder/libpng.txt"
+  },
+  {
+    "name": "libwebp",
+    "website": "https://chromium.googlesource.com/webm/libwebp",
+    "licenseName": "BSD-3-Clause",
+    "asset": "licenses/image-decoder/libwebp.txt"
+  },
+  {
+    "name": "libheif",
+    "website": "https://github.com/strukturag/libheif",
+    "licenseName": "LGPL-3.0-or-later",
+    "asset": "licenses/image-decoder/libheif.txt"
+  },
+  {
+    "name": "libde265",
+    "website": "https://github.com/strukturag/libde265",
+    "licenseName": "LGPL-3.0-or-later",
+    "asset": "licenses/image-decoder/libde265.txt"
+  },
+  {
+    "name": "dav1d",
+    "website": "https://github.com/videolan/dav1d",
+    "licenseName": "BSD-2-Clause",
+    "asset": "licenses/image-decoder/dav1d.txt"
+  },
+  {
+    "name": "libjxl",
+    "website": "https://github.com/libjxl/libjxl",
+    "licenseName": "BSD-3-Clause plus pinned submodule licences",
+    "asset": "licenses/image-decoder/libjxl.txt"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Libarchive Android JNI",
+    "website": "https://github.com/zhanghai/libarchive-android",
+    "licenseName": "Apache-2.0",
+    "asset": "licenses/libarchive/wrapper.txt"
+  },
+  {
+    "name": "libarchive",
+    "website": "https://www.libarchive.org/",
+    "licenseName": "BSD and permissive per-file notices",
+    "asset": "licenses/libarchive/libarchive.txt"
+  },
+  {
+    "name": "bzip2",
+    "website": "https://sourceware.org/bzip2/",
+    "licenseName": "bzip2 license",
+    "asset": "licenses/libarchive/bzip2.txt"
+  },
+  {
+    "name": "LZ4",
+    "website": "https://github.com/lz4/lz4",
+    "licenseName": "BSD-2-Clause",
+    "asset": "licenses/libarchive/lz4.txt"
+  },
+  {
+    "name": "Mbed TLS",
+    "website": "https://github.com/Mbed-TLS/mbedtls",
+    "licenseName": "Apache-2.0",
+    "asset": "licenses/libarchive/mbedtls.txt"
+  },
+  {
+    "name": "XZ liblzma",
+    "website": "https://tukaani.org/xz/",
+    "licenseName": "0BSD",
+    "asset": "licenses/libarchive/xz.txt"
+  },
+  {
+    "name": "Zstandard",
+    "website": "https://github.com/facebook/zstd",
+    "licenseName": "BSD-3-Clause option",
+    "asset": "licenses/libarchive/zstd.txt"
+  }
+]

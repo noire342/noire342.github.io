@@ -1,0 +1,1071 @@
+[
+  {
+    "path": "source",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/.github",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/.github/workflows",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/.github/workflows/ci.yml",
+    "kind": "file",
+    "bytes": 1406,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "e324aa8c804bb32a5c149abd20387cadbcc3099a64291ff880f1c38b1ef67239"
+  },
+  {
+    "path": "source/.gitignore",
+    "kind": "file",
+    "bytes": 103,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "c5b8eb65aa00db865c0e02c50b22b0dc36a1ab064fb575db6b96d435b32bc812"
+  },
+  {
+    "path": "source/CHANGELOG.md",
+    "kind": "file",
+    "bytes": 7107,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "c7f257a04f603536145cadcb26711579361effad6e365fcb27bbd394967a3a02"
+  },
+  {
+    "path": "source/CONTRIBUTING.md",
+    "kind": "file",
+    "bytes": 415,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "b41f37f96eac86d9d8c2bbb28518d3627094cbd8c09a62314db08824101308b9"
+  },
+  {
+    "path": "source/LICENSE",
+    "kind": "file",
+    "bytes": 11357,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+  },
+  {
+    "path": "source/README.md",
+    "kind": "file",
+    "bytes": 6854,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "b0af472a39a8fc04d4bc2d442a2c606db3f17f3171c0d0a74672bcf3dcf07214"
+  },
+  {
+    "path": "source/build.gradle",
+    "kind": "file",
+    "bytes": 129,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "58f3fd9e61b77910cacf30d70f0325394be7f4a10b8bb991f0e520a96a117d00"
+  },
+  {
+    "path": "source/gradle",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/gradle/wrapper",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/gradle/wrapper/gradle-wrapper.jar",
+    "kind": "file",
+    "bytes": 60756,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "91a239400bb638f36a1795d8fdf7939d532cdc7d794d1119b7261aac158b1e60"
+  },
+  {
+    "path": "source/gradle/wrapper/gradle-wrapper.properties",
+    "kind": "file",
+    "bytes": 221,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "7910ff84a440deda932aa4900045b051cffee2ace139697f6cc3f25f3b4c6bb0"
+  },
+  {
+    "path": "source/gradle.properties",
+    "kind": "file",
+    "bytes": 1750,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "5c125d137b23fdf04c52b175530ca45b9e8c73693ceaf948eebfb9f1b3efa6ae"
+  },
+  {
+    "path": "source/gradlew",
+    "kind": "file",
+    "bytes": 8188,
+    "mode": "0o755",
+    "linkTarget": null,
+    "sha256": "8deee7d70dd19cf8180712bd9a4fc2f957ad4ce81f64ce825aec066275fdf761"
+  },
+  {
+    "path": "source/gradlew.bat",
+    "kind": "file",
+    "bytes": 2838,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "fbc50a5a441b0917ea1bfba260c0717a8416fd54505338f074ccd3f03241ec09"
+  },
+  {
+    "path": "source/jitpack.yml",
+    "kind": "file",
+    "bytes": 18,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "1eaeb9d9f9be25bb452ebc23cc6c8e47b9ee137c890e83f49882aa3c7ab99227"
+  },
+  {
+    "path": "source/settings.gradle",
+    "kind": "file",
+    "bytes": 280,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "9aaeec87e3c086596c8486be9859676db8721b4a21a232ab17716a2b61747bf0"
+  },
+  {
+    "path": "source/sqlite-android",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/.gitignore",
+    "kind": "file",
+    "bytes": 148,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "a051a71b2c2e59998041001faaf1f370d098166a5546c4f4b281f13d179e0de4"
+  },
+  {
+    "path": "source/sqlite-android/build.gradle",
+    "kind": "file",
+    "bytes": 2625,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "f5a18e2fbe0ce9e3a11e5234a51a0ecbf35122d9df00c0f94870bfae5d7634ea"
+  },
+  {
+    "path": "source/sqlite-android/gradle.properties",
+    "kind": "file",
+    "bytes": 107,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "3c3e988fa4cf034f7a112768a71774452f7e232201dbc210192e52be5fa99b88"
+  },
+  {
+    "path": "source/sqlite-android/proguard-rules.pro",
+    "kind": "file",
+    "bytes": 885,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "81569949e5849507d80f55238fe3acd6cb83a4491d297438a3f0978b40ece6fe"
+  },
+  {
+    "path": "source/sqlite-android/src",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/CursorWindowTest.java",
+    "kind": "file",
+    "bytes": 4178,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "9da581f09d6e2bdb53af7cb8ddee533377c5efee2c11f3936b7fd8495ee1fb5e"
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/DatabaseCursorTest.java",
+    "kind": "file",
+    "bytes": 16935,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "f71693c1630aa032336094039f45df661c51fc24592ade23d80128126d44594d"
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/DatabaseErrorHandlerTest.java",
+    "kind": "file",
+    "bytes": 5267,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "4f504f0101536946acaf861df7123286c4124c23f3d8d2c96bed819b6b4db334"
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/DatabaseGeneralTest.java",
+    "kind": "file",
+    "bytes": 48395,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "b99fa9e300ea704286fb1a72923b5b2d2e98f7d8ba7cd29d5e299bc0bdbe1e0a"
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/DatabaseLocaleTest.java",
+    "kind": "file",
+    "bytes": 4640,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "a19d82ac87750b2508dab2a3a6776ca5ab68a313d3721d4577195554d3ae934c"
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/DatabaseStatementTest.java",
+    "kind": "file",
+    "bytes": 11367,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "9b644e0dfacd3588da75da524547bb3843c8f07f7bd7afa7c35aee2272f11ddc"
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/NewDatabasePerformanceTestSuite.java",
+    "kind": "file",
+    "bytes": 4620,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "29f9f103e62bee26a65663ecabecd93c04a5b882a9ffbc1c3fb99de469d26a50"
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/NewDatabasePerformanceTests.java",
+    "kind": "file",
+    "bytes": 37338,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "697a38e55fe12e5dbb635fe5ef3dd62dc71348b7eeae55e7ba68c76f0d9b1274"
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/benchmark",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/benchmark/Benchmark.java",
+    "kind": "file",
+    "bytes": 10651,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "efe35411c65028f5b4117858ac0b78627c419d576afd38653cdc3a6290f3add6"
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/sqlite",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/androidTest/java/io/requery/android/database/sqlite/SQLiteStatementTypeTest.java",
+    "kind": "file",
+    "bytes": 7305,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "ab820e2483a7c4bb28791b568fff741304a7195ef47c89eb5fd5dcecc7db5295"
+  },
+  {
+    "path": "source/sqlite-android/src/main",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/main/AndroidManifest.xml",
+    "kind": "file",
+    "bytes": 13,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "571f2735faf5e857752ee057ac8ef63425576a721616c60b86ee5d4c0a2d682f"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/AbstractCursor.java",
+    "kind": "file",
+    "bytes": 12311,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "bee1d324c7fe62967d6a4cc8f679853de1700af8b9533e4f9c0878f6823ae1fd"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/AbstractWindowedCursor.java",
+    "kind": "file",
+    "bytes": 5240,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "c087625013a754acf07cd79eb3a31be4001968770d8f907a857143643bef37d8"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/CursorWindow.java",
+    "kind": "file",
+    "bytes": 19026,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "9f02fdc73a5ccd7ad14199c65c69d723e305fb58d5bcfba30b3db3d1114ce693"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/CursorWindowAllocationException.java",
+    "kind": "file",
+    "bytes": 975,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "9250570bb9ced84ad33c69f6d86c4fc82d14fd2041749d4b4b859db83bce12bd"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/DatabaseErrorHandler.java",
+    "kind": "file",
+    "bytes": 1182,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "513c66d676493dc8b83984c3c5e45eccb62635772d7cb417efbc2604bc443752"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/DefaultDatabaseErrorHandler.java",
+    "kind": "file",
+    "bytes": 4258,
+    "mode": "0o755",
+    "linkTarget": null,
+    "sha256": "08cd040261a027a4f5c6fe6bef547c50237f831da7796157e0d76e398819a1da"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/CloseGuard.java",
+    "kind": "file",
+    "bytes": 6943,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "4a819c9714b99dce96f94f222f40284a7c4a4056d24959ef15c493a68dd8e640"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/RequerySQLiteOpenHelperFactory.java",
+    "kind": "file",
+    "bytes": 3240,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "7fc75d711953b1dbc4941cc5265cf48f6784cb2de38a8e7394c266f5e2e4708c"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteClosable.java",
+    "kind": "file",
+    "bytes": 2465,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "a5768093b449f337646be2818cc7d331180c547c9aeb9be6ffd7e49eca0e9ee3"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteConnection.java",
+    "kind": "file",
+    "bytes": 66688,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "4407651b2e99c54318d8abeb8c62b8c6eae7197609e1bed18734eb699ad0dc4d"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteConnectionPool.java",
+    "kind": "file",
+    "bytes": 45316,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "2a8c0506eec1cf930e9a901d3c60a39fe0fed4daf491ad2076cc2723c1719ff9"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteCursor.java",
+    "kind": "file",
+    "bytes": 8626,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "0e5294fdb425adc0d9d46e7fb10dd7174fe5e9e613eaebaae1563fc781f249ec"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteCursorDriver.java",
+    "kind": "file",
+    "bytes": 1839,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "60d392951690b1ee1ef2e01120f0ac4ea0c4528975d19971d10ac8b9d0d8945b"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteCustomExtension.java",
+    "kind": "file",
+    "bytes": 1363,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "68d6fcd09de0ef16f1dfc9841e4754711be0d5c7227f136cfbbc2dab2be57629"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteCustomFunction.java",
+    "kind": "file",
+    "bytes": 1740,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "a87fa6991b3eb3ef5d947360c232e3e40bb1b27db5bbbc0b28d600e8b86eb733"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteDatabase.java",
+    "kind": "file",
+    "bytes": 108328,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "b89d6b40491c03f209736027ba350f8b5e567b7d926ffb90785e83bd21baaeb2"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteDatabaseConfiguration.java",
+    "kind": "file",
+    "bytes": 6660,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "58027b4f91fac62830395a1d6f34e4a7ecd3d5e8d707bab8aec5d7a425dc3403"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteDebug.java",
+    "kind": "file",
+    "bytes": 6070,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "e65ff05d7d466433e68acdf3a7832f80beb00b6e5e4a71b2f0fa683f34be832e"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteDirectCursorDriver.java",
+    "kind": "file",
+    "bytes": 2524,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "a65f9a5cad3284b4790eb228f4cfea8c881b04022d77add2f656aeaa3b0046ab"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteFunction.java",
+    "kind": "file",
+    "bytes": 5610,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "c844a5f6d183a96aa18a5a1d3b356cee5d4c74a0701c7cc7f22fcb443bdd49b5"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteGlobal.java",
+    "kind": "file",
+    "bytes": 3348,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "ba3ca6d5645b02b4f0cabb7eda656c82243f304e4d314e5be3e36a6d616f9cfe"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteOpenHelper.java",
+    "kind": "file",
+    "bytes": 17537,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "2ea1fa3d46110476aea99343da34009746f180f453f529f88d4048b821c0d9d8"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteProgram.java",
+    "kind": "file",
+    "bytes": 7889,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "b418ca8822250763035f61f0177c2246a4c70dec670d9c1beed07d542ce4a2d6"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteQuery.java",
+    "kind": "file",
+    "bytes": 3265,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "f45ff7c3b92c774db0fc95ae72b9ebb02ea6c2fd4041380c269d0abdb44e965a"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteQueryBuilder.java",
+    "kind": "file",
+    "bytes": 26905,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "dcb39afd445a2dee9cf562ec91d7ace715767d9fdf4658bd62a54b41a8eb0ca5"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteSession.java",
+    "kind": "file",
+    "bytes": 41733,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "ed8f630f2b156afbd5c2549f6bfaf8ab7585e53b3a21e462815cef05a4b3b839"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteStatement.java",
+    "kind": "file",
+    "bytes": 5742,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "f5e46d9973078f3511e0ffc1a752fc24aecb84b1368f362c0d4f13e38a6a1890"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteStatementInfo.java",
+    "kind": "file",
+    "bytes": 1148,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "5208a890ced3bfb69de435333f99a25ebded04300c0ce5885805ca405d8bbd5d"
+  },
+  {
+    "path": "source/sqlite-android/src/main/java/io/requery/android/database/sqlite/SQLiteStatementType.java",
+    "kind": "file",
+    "bytes": 5688,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "1d6f5967306e6c5da7767d9cd6fbab9d68ffbefb90d9b703487f54e5165554be"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/Android.mk",
+    "kind": "file",
+    "bytes": 70,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "fd91f757bd52d5e11301cf87412537347da0abcf6f1fbe55d6239805d249bee2"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/Application.mk",
+    "kind": "file",
+    "bytes": 111,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "daf8aae85b5f7014661e9223a95c00cff22c559b1c74e7ccacbbb976ff33a451"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o755",
+    "linkTarget": null
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/ALog-priv.h",
+    "kind": "file",
+    "bytes": 1766,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "605d44e3661808bcf25f2c42edcb330da0a951407f5321cda4639b8f4ad362c1"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/Android.mk",
+    "kind": "file",
+    "bytes": 1885,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "a47564cf2249073bb69829206c15812b2cbd2399286bc73b9cbd7020752ff07a"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/CursorWindow.cpp",
+    "kind": "file",
+    "bytes": 8403,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "5984bad01f66a86bddf86399ce10905544707cb61e8144484056ed6e3f5ac15e"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/CursorWindow.h",
+    "kind": "file",
+    "bytes": 5611,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "48b5b82035cb3e4e763369b246875eed44f1675788c849ebb4318acc5caed272"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/Errors.h",
+    "kind": "file",
+    "bytes": 2475,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "5e4b2262beae9daf21869d6e0a4c7db1bb4d511059c747ca7d193aee0001838d"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/JNIHelp.cpp",
+    "kind": "file",
+    "bytes": 7486,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "bb509e4a04bf82c21e435f7b3a0099b6dd7320e050ade253485921352f07f21e"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/JNIHelp.h",
+    "kind": "file",
+    "bytes": 5712,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "44b025fb46f67046d0826a597e60c243b96f351e39d11e6c27443d4578bf882c"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/JNIString.cpp",
+    "kind": "file",
+    "bytes": 4361,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "cc30c22daa33b42f2159493a13b1de9f5a274c7e9f45d1ab7234f3e279d29f60"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/README",
+    "kind": "file",
+    "bytes": 1323,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "04e7e7927ec4690c0f1ba56a491a8e36e2fcca7bb7926eacbf6e931d4eba6d3e"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/android_database_CursorWindow.cpp",
+    "kind": "file",
+    "bytes": 15091,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "06cf0007f90b2c6e63f1530d12771e7d46ec5042322cbbaac1c67d372538138b"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/android_database_SQLiteCommon.cpp",
+    "kind": "file",
+    "bytes": 5755,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "74091983f77c410387be52ddb7c8abcf0d8f818d255b49b8642b3d3b620623dc"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/android_database_SQLiteCommon.h",
+    "kind": "file",
+    "bytes": 1797,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "2b4f37af484ad5f7d06a274b55c49632ee5aced5135f97aaac0dec9ea83f3099"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/android_database_SQLiteConnection.cpp",
+    "kind": "file",
+    "bytes": 40443,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "4d2862eae70abb77bc633bc764b8263e30fd2e4a01533f431ab06315b84d554e"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/android_database_SQLiteDebug.cpp",
+    "kind": "file",
+    "bytes": 2611,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "62c944e87dab68154f223ae3d51d5e2328849e007944608316b2289bb886e8e4"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/android_database_SQLiteFunction.cpp",
+    "kind": "file",
+    "bytes": 6826,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "aa4e80d07e6fe49fd478ea7ee29c9026ac32ee719f405770207d7a088a26ca26"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/android_database_SQLiteGlobal.cpp",
+    "kind": "file",
+    "bytes": 3094,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "f9d983753d4b72a9bff6ca6d85d64105430b711abd7aa7617e2eaa5b88cda2d0"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/sqlite3.c",
+    "kind": "file",
+    "bytes": 9015946,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "7956a38f236a6be6c0bb30c96ba4f85f19e5a69f6beb6d2c62c9d246972a6775"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/sqlite3.h",
+    "kind": "file",
+    "bytes": 640658,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "0c207567adc631521a353e067cfbc5044ebf11868f3c3fbf3178d6990409740e"
+  },
+  {
+    "path": "source/sqlite-android/src/main/jni/sqlite/sqlite3ext.h",
+    "kind": "file",
+    "bytes": 38149,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "b184dd1586d935133d37ad76fa353faf0a1021ff2fdedeedcc3498fff74bbb94"
+  },
+  {
+    "path": "build-result.json",
+    "kind": "file",
+    "bytes": 1133,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "51702a8af97c694206ffcb9d08042462ed67be77b4da20d367e3361e7091d930"
+  },
+  {
+    "path": "provenance.json",
+    "kind": "file",
+    "bytes": 892,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "daa1f775b4013c8d1f7df6be2a1b90aff0272c645a45c226e0497d17ba13f5e3"
+  },
+  {
+    "path": "sqlite-amalgamation.zip",
+    "kind": "file",
+    "bytes": 2729858,
+    "mode": "0o644",
+    "linkTarget": null,
+    "sha256": "bde30d13ebdf84926ddd5e8b6df145be03a577a48fd075a087a5dd815bcdf740"
+  },
+  {
+    "path": "tools/native/sqlite",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o777",
+    "linkTarget": null
+  },
+  {
+    "path": "tools/native/sqlite/build_sqlite.py",
+    "kind": "file",
+    "bytes": 4370,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "e3ecced5fd0d553bc8f64a9e056dd47f9247e3c691d8bbc0900f722d221b3922"
+  },
+  {
+    "path": "tools/native/sqlite/verify_package.py",
+    "kind": "file",
+    "bytes": 8836,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "7fcd610a06ec758e05d86156b5bc607e3039ba7947df5d01c249d51d5e27004b"
+  },
+  {
+    "path": "tools/licensing",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o777",
+    "linkTarget": null
+  },
+  {
+    "path": "tools/licensing/README.md",
+    "kind": "file",
+    "bytes": 3029,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "0bdea046e4e80a991416c0e4ae2ee9e8f562e475a019786cdc81055c84113354"
+  },
+  {
+    "path": "tools/licensing/audit_runtime.py",
+    "kind": "file",
+    "bytes": 4344,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "6e85a2ca333b0ac16e493bdd99fc724921739894488ce8732dbbd95eb453212b"
+  },
+  {
+    "path": "tools/licensing/export-runtime.gradle",
+    "kind": "file",
+    "bytes": 4683,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "823a81242b4ab0850d7164afea083654074830b8ae2312b86d570d823365f899"
+  },
+  {
+    "path": "tools/licensing/inspect_native.py",
+    "kind": "file",
+    "bytes": 3420,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "6cfc961de53c64fd3ee718cdd19914b4f1a65fd68300e5e8d00d0cb8d3f03ff2"
+  },
+  {
+    "path": "tools/licensing/play_preflight.py",
+    "kind": "file",
+    "bytes": 10818,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "945f0d37baff68f85bcff9e9d9357c50154b8564575f0544c273dcfdc7970f62"
+  },
+  {
+    "path": "tools/licensing/test_audit_runtime.py",
+    "kind": "file",
+    "bytes": 2889,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "a587c0cd6e45cbcd58d9cba1f153b937cc645f72c71a64faa8cb14d680d7563e"
+  },
+  {
+    "path": "tools/licensing/test_native_inventory.py",
+    "kind": "file",
+    "bytes": 3464,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "5e1588c73b342e275ccf46a119627c3a3693e097760da41ae16054a9e473d878"
+  },
+  {
+    "path": "tools/licensing/test_play_preflight.py",
+    "kind": "file",
+    "bytes": 5527,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "7f5027d22f0ecb2b79c7a8d6e9fe5951fa71eec688bfafbe5aea49d4af1da9ee"
+  },
+  {
+    "path": "tools/native/lgpl-player",
+    "kind": "directory",
+    "bytes": 0,
+    "mode": "0o777",
+    "linkTarget": null
+  },
+  {
+    "path": "tools/native/lgpl-player/README.md",
+    "kind": "file",
+    "bytes": 10941,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "9041343be3c5d08f07b76bd439624d35808ce4990df85809a5f62966902d9457"
+  },
+  {
+    "path": "tools/native/lgpl-player/build-linux.sh",
+    "kind": "file",
+    "bytes": 5186,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "a2ee5d56b3f6f329d5095daabad54285efdf81482fef12a3e68a8af47144f490"
+  },
+  {
+    "path": "tools/native/lgpl-player/bundle_sources.py",
+    "kind": "file",
+    "bytes": 4988,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "c646223aec589526fdb0a5e316d73a0ce3b37eb84763ac53993db0055add28b8"
+  },
+  {
+    "path": "tools/native/lgpl-player/check_java_wrappers.py",
+    "kind": "file",
+    "bytes": 4749,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "3e04d7b22b1867682038b16b0026a1f1b1a79b9d24f7302f7fa01dca95b00e95"
+  },
+  {
+    "path": "tools/native/lgpl-player/consumer-rules.pro",
+    "kind": "file",
+    "bytes": 340,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "247ccb0037c66f187bea0da8b4540ee19ebab6df01d4b0e0780d0c95a4e2c048"
+  },
+  {
+    "path": "tools/native/lgpl-player/elf_page_policy.py",
+    "kind": "file",
+    "bytes": 1938,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "cc2e91948972a061a4006e827f34431085083e140c23f3036e5e244bb474a243"
+  },
+  {
+    "path": "tools/native/lgpl-player/merge_native.py",
+    "kind": "file",
+    "bytes": 1633,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "89ef8ed1982ceb8f42d0db4a16e3ab1a60448aab761dc5429ef9e57fe1ba7e12"
+  },
+  {
+    "path": "tools/native/lgpl-player/package_aars.py",
+    "kind": "file",
+    "bytes": 8564,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "2147c5420ec3d2bc785ad588f0fafa24a62fe3db77c76de1589b7822f6e42726"
+  },
+  {
+    "path": "tools/native/lgpl-player/package_notices.py",
+    "kind": "file",
+    "bytes": 7190,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "6d6bf457a254188881318aa9fe51505f0e9a04bb20da6c031a376a410022e72d"
+  },
+  {
+    "path": "tools/native/lgpl-player/prepare_sources.py",
+    "kind": "file",
+    "bytes": 9653,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "5a03165325b5de2ab43fc1f6d8c15e0c8fe90cd2f1bce6fd26b91aedbad5dac1"
+  },
+  {
+    "path": "tools/native/lgpl-player/sources.lock.json",
+    "kind": "file",
+    "bytes": 3307,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "cc7bd8b2a2b9c3b0a2877475a366f232a82d9d7dbbf89ada62fbd1bd5b773f58"
+  },
+  {
+    "path": "tools/native/lgpl-player/test_aar_packaging.py",
+    "kind": "file",
+    "bytes": 7726,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "d4154ac243a261ee2971af31ccff4b4048b461746b5ccf501153e6375c5525a3"
+  },
+  {
+    "path": "tools/native/lgpl-player/test_apk_verification.py",
+    "kind": "file",
+    "bytes": 5529,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "745d56519049a831a65c2acf84cab5c5a41e1af8a155cfb353ac640bd9f5a44b"
+  },
+  {
+    "path": "tools/native/lgpl-player/test_native_policy.py",
+    "kind": "file",
+    "bytes": 13955,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "33d35c4b09092311f169a3c971366a446775a42c413cb867a4fbeef1f3898518"
+  },
+  {
+    "path": "tools/native/lgpl-player/test_notice_packaging.py",
+    "kind": "file",
+    "bytes": 1982,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "8360930327c5dae146bc3350d961e9ce885870280de79f78143a9dfa98516717"
+  },
+  {
+    "path": "tools/native/lgpl-player/test_pinned_cache.py",
+    "kind": "file",
+    "bytes": 2042,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "c8c0e20f62ebe4617222a0bda023f72be84e94480417dbf9fe03e853e2fee0ff"
+  },
+  {
+    "path": "tools/native/lgpl-player/verify_apk.py",
+    "kind": "file",
+    "bytes": 5672,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "f9175ab044bd41af6b733ba76d55284e956cc2984b3d4a90d222d05cb9d33075"
+  },
+  {
+    "path": "tools/native/lgpl-player/verify_native.py",
+    "kind": "file",
+    "bytes": 8888,
+    "mode": "0o777",
+    "linkTarget": null,
+    "sha256": "053a2b9df0fe5dc94d03cdd51cc5e6d24ace044ce3e3e200569a820f688e78bc"
+  }
+]

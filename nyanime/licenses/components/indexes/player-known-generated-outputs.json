@@ -1,0 +1,2733 @@
+{
+  "classification": "Known compiled suffixes and flagged generated Mbed TLS programs; full member index is authoritative. Extraction additionally detects ELF magic for no-suffix outputs.",
+  "entries": [
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2.so",
+      "kind": "file",
+      "bytes": 4952920,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "358fc90db95480eaf04617a562ec7d17a53ef29225c71b591d66956449a3bad3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-HTMLparser.o",
+      "kind": "file",
+      "bytes": 488592,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e16bd31318d8322c2e895349c62da2276562aca748f471a88e923310c958b30e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-HTMLtree.o",
+      "kind": "file",
+      "bytes": 110696,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e5e957d768757c5deb74c3f9359a7366d855f6f2286a3e284548992458c5e181"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-SAX2.o",
+      "kind": "file",
+      "bytes": 191968,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "221ca78a692c0f64ccc10173f2ee84624f3a30628b5c375417f0809f72c9e719"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-buf.o",
+      "kind": "file",
+      "bytes": 79808,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4df6da9af40f0317beb72349992b31b6ff453013e0e49466db48b4fc7894252b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-c14n.o",
+      "kind": "file",
+      "bytes": 143176,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "cddc21dc33c69e7e362518cf684f94b75d2f497cb716ff70041a3f34a2ed5b0c"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-catalog.o",
+      "kind": "file",
+      "bytes": 250416,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "480b7c85ccd1af74fb24a186b79248497ab749263bbd1a6b7831e4d00cc11771"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-chvalid.o",
+      "kind": "file",
+      "bytes": 14872,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "5ad4d659b7b3af25488dd16850492f0c32c19c1cfb7d3cc9f98cc347b7f8fde6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-debugXML.o",
+      "kind": "file",
+      "bytes": 226528,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "9135f6f3fe20a83374f9e047b3d62c34686ffd995948ab05b97bf3039492959e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-dict.o",
+      "kind": "file",
+      "bytes": 42848,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "098cc192d60001373aa7f5b3407aec48f250c35f620d6b64f734beb105cdf4d0"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-encoding.o",
+      "kind": "file",
+      "bytes": 191648,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f8501b102e96d9c6b25b3edaba8750cea71d85389764f40a60f84e7c863c3998"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-entities.o",
+      "kind": "file",
+      "bytes": 95224,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "466836ccb7693564ebef2f5059c2cdcbac046160e0b1844d959caa73024ff34b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-error.o",
+      "kind": "file",
+      "bytes": 148192,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "1d2913a9e1d1df2bc21c1ae324d46fdfc80951b28902d6fb2b500488fd1720ba"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-globals.o",
+      "kind": "file",
+      "bytes": 82328,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c17011d4635bc4100b96dad15884af1ed78a57dd38694341d1b03733bc44f349"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-hash.o",
+      "kind": "file",
+      "bytes": 59560,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "b41553273e8dece64138df6638498f8d465d522a5a1a2f48e0666cb080dbd87e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-list.o",
+      "kind": "file",
+      "bytes": 38992,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "9a912a86b8ab869177e8b02da25064bf15b1b07f90b80bd64f68af1f887edefc"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-parser.o",
+      "kind": "file",
+      "bytes": 704488,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "3876919c8d2b94273b75cfb0bb38d44909bc7a2e6625c9fd9430fd117455ffbc"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-parserInternals.o",
+      "kind": "file",
+      "bytes": 198872,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "1db2ef97fd2c395f82fb00d5f833affb5ff009a76030b3f253bd6b6947b88212"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-pattern.o",
+      "kind": "file",
+      "bytes": 110784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "476e05fef22754c38558bcb9843d017b631840fe5c18c4af86e8e03a99920011"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-relaxng.o",
+      "kind": "file",
+      "bytes": 501936,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "6ea8f815e8031b73391b089932b95814fffab7a22fb76ec67ceaeef3dacd3955"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-schematron.o",
+      "kind": "file",
+      "bytes": 143384,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ccde515ab819725c90ef07aa57c4df0d54669553de93cc00a1eea4dba6da82a6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-threads.o",
+      "kind": "file",
+      "bytes": 17864,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "176bbd775ac76de6f688650f30c7945c91eb60dac36744c83dfbf2632979db0e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-tree.o",
+      "kind": "file",
+      "bytes": 443824,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0c80f7bc75413f34d3b632446ced396a1256755badb8acf165b2600bdee1feed"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-uri.o",
+      "kind": "file",
+      "bytes": 95008,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "aa07c414d1bbdce2241a51d2e278db24a44764f5dbec25e499b7762ce2ae4df8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-valid.o",
+      "kind": "file",
+      "bytes": 362960,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "917122a35d393ab84d9608f2a53536911d403f9efb59002698950165a0f192ee"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xinclude.o",
+      "kind": "file",
+      "bytes": 197904,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "3ae1682c44c68b81a3a8e1cc5b49fbe67fa177dad1a70b6e6a8359ea15ad0a02"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xlink.o",
+      "kind": "file",
+      "bytes": 16688,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0cc4db7750925963c59009f04b18fdd4640a13213a70a65b9d15d425c85add31"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlIO.o",
+      "kind": "file",
+      "bytes": 159152,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c0e7d3cae53d0ba92363d29f5a24215db2c46b4dc4340aee13f106889a99bf0b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlmemory.o",
+      "kind": "file",
+      "bytes": 22720,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f12c85adf8bb657f693505dee666af448992ac21361382025d25d542181972d8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlmodule.o",
+      "kind": "file",
+      "bytes": 8248,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "611efedc8e315c453abd83ffda4d8c0bcd0d0be534082a27204f7db305bc8cec"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlreader.o",
+      "kind": "file",
+      "bytes": 268376,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ce6d561928f6bb25bbcfd93b0e4a6c54f74a74100f28bb0ea3c6ad4f036d2ff8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlregexp.o",
+      "kind": "file",
+      "bytes": 298712,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "565d64ea753be4714f1cc06c04a67ebb2b129ad6fd6349c30922f7a2624290a9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlsave.o",
+      "kind": "file",
+      "bytes": 195952,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "325a16f91eec3d006d3bdee9bc4653a59f63f8d488407bc75e6cb9a265aab37b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlschemas.o",
+      "kind": "file",
+      "bytes": 1348232,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "24861e23850a2a37160b908a87317f071095f551933ec4a768f19fcd2a5d0f5c"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlschemastypes.o",
+      "kind": "file",
+      "bytes": 282304,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "eba154e75e94843c7f7c9b93aced5545f150401427c477e984b21554e8c9a94a"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlstring.o",
+      "kind": "file",
+      "bytes": 48072,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "fa4d7a3b2577506dbac3be91ae19eb2fbf547dc5ea7f3cf43c0d97e2ced8bdf8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlunicode.o",
+      "kind": "file",
+      "bytes": 105192,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "8e2d6ebe581127162de8b577a996d992b7c9fc2019ec44d0785e10950082291f"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xmlwriter.o",
+      "kind": "file",
+      "bytes": 299928,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "a9203ee06ffeb8ffcc828dd29c08dc680ed52f1b8c07d0e2a64a8ce2b1351bc2"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xpath.o",
+      "kind": "file",
+      "bytes": 639088,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "8d68909c73a1067d450a747d94f9e71cf94a09e3ac6696cab61c888d800275b0"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/libxml2_la-xpointer.o",
+      "kind": "file",
+      "bytes": 81616,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "303cf2c304d6c3ab8651c38e41363f62de1e2b36fa44256c57a3f85fc953e843"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/testdso.o",
+      "kind": "file",
+      "bytes": 3000,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "5ab6449a909a0c03aa41a1f05b092c81762e497aa3cade925288e344896e7d43"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/.libs/testdso.so",
+      "kind": "file",
+      "bytes": 6240,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "a7c812cf9f850f4b49203002e1e9ce1ca126245a5bb49e6a99c81eaf28e62476"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2.la",
+      "kind": "file",
+      "bytes": 901,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d639af5b8994555c42c46982dd737094497448bb2e6b6cd00da30ac6dac2d17d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-HTMLparser.lo",
+      "kind": "file",
+      "bytes": 315,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "9fab4d3eae88efaa2f428d34641b3754ac2baae26eccf3a29a028f604f39dbaa"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-HTMLtree.lo",
+      "kind": "file",
+      "bytes": 311,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "68cd4c1efda50ecd37b34db5f220661b81a4972ed22f360adb418d15180de580"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-SAX2.lo",
+      "kind": "file",
+      "bytes": 303,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f951e4cfbbbb160a2ab9bb8868fe1771c4b1121e6f17c45c4b1eb8a296b02de7"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-buf.lo",
+      "kind": "file",
+      "bytes": 301,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "470c57b3b615173812b9d0f1fc8de5a06cff8af3b57d2f186fd945c51c6deadd"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-c14n.lo",
+      "kind": "file",
+      "bytes": 303,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "3e7702413ea198a47d0651b9e46f8cb6a9353d9d7c1f23817641addb5a2e679d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-catalog.lo",
+      "kind": "file",
+      "bytes": 309,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "b891f7e7b9ec70994c2f8467e61ca24301412aa08714a7333c5869b0b354a5a3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-chvalid.lo",
+      "kind": "file",
+      "bytes": 309,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f1bbf566d919ff5ddeee8df38a2aed98c59bf9f2ed2f1365170a3ff284d787bb"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-debugXML.lo",
+      "kind": "file",
+      "bytes": 311,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ec44bb758b71c02203feac406f8455a9d1ef3d76745a8ee871ad85e89ae58270"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-dict.lo",
+      "kind": "file",
+      "bytes": 303,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "7b818505579957c315c2569134c744f997197a72f5f2688098b0bb7ca82191fc"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-encoding.lo",
+      "kind": "file",
+      "bytes": 311,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "8ed55a1b08140c1cd5270a9b7f9fb93db583f8e3eb0423f437dc81da97fa2d4d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-entities.lo",
+      "kind": "file",
+      "bytes": 311,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ef3be258cbf8b6829a31fa6bc32d0f16350a98f4c299dd5ad63b1b897ffed423"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-error.lo",
+      "kind": "file",
+      "bytes": 305,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "913cb6ce23f62f5f7d1bcba9735a031c3cfa9c8a6e2e3757f33ca3f69a751cac"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-globals.lo",
+      "kind": "file",
+      "bytes": 309,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c46535a8c8244448bb6bb6dcfc6a034ad47c35c1b1e30631daac7b48b62f5f2f"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-hash.lo",
+      "kind": "file",
+      "bytes": 303,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "1b3d20ee5f7a4a9097424de94ced983f431edf0503224632853dced2af3dee8c"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-list.lo",
+      "kind": "file",
+      "bytes": 303,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0ee6499775fa9fc0b8e6998b2d62884943b17ed2659d29b58f41f536f2411beb"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-parser.lo",
+      "kind": "file",
+      "bytes": 307,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c68459a85dee2b9095efd30101ac561550b56f5c4c1e549eadf7bfe391fbde8a"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-parserInternals.lo",
+      "kind": "file",
+      "bytes": 325,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e3d626f803fd15e7636acd42bb59acd5b47d3bfaafda7cf5342f1f2cd368fcc6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-pattern.lo",
+      "kind": "file",
+      "bytes": 309,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "7cb54f6bbe34b15cd3b0120437a3f66fe4ecd1b5bc047b0903c00a7068088784"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-relaxng.lo",
+      "kind": "file",
+      "bytes": 309,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "fa5ccbb46fb5bd829410bdfa8fb23c06e13d6c32bd2567e9a0a1efd764577b3d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-schematron.lo",
+      "kind": "file",
+      "bytes": 315,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c2e3db7a4e817659a4b36ac1276e48ab270490ac65786ea5b71cab39403049fd"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-threads.lo",
+      "kind": "file",
+      "bytes": 309,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "623c8ec2194a4b4392a5951d12da4983441f18360951ba4f98c0a6ab30258a98"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-tree.lo",
+      "kind": "file",
+      "bytes": 303,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e792c8792d61da9c368870ce236249281627d5ac424d951f5585edc3151327f8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-uri.lo",
+      "kind": "file",
+      "bytes": 301,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "65d37b3053768222fb09ee86aaa408a240dcca5ee2f2cf0cee4b59b87a21a024"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-valid.lo",
+      "kind": "file",
+      "bytes": 305,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f47d1808de21caaa46f4c5f09cdc360bf346ce32ab36a4066ec06aadda930bd2"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xinclude.lo",
+      "kind": "file",
+      "bytes": 311,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0c57df1a75a0dba4ad18ae0247c875a4428c26ab584c84c3a776944e1234f489"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xlink.lo",
+      "kind": "file",
+      "bytes": 305,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "a8d7d04d1582e3bb424aea5340e7d2238e6df729ad55e72f9f01057c77dbb08f"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlIO.lo",
+      "kind": "file",
+      "bytes": 305,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "fbde82ad7e3a4cdf89ed9a91493c89c10cb8cc32016c59ff404489c41afca0d0"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlmemory.lo",
+      "kind": "file",
+      "bytes": 313,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "357b1fb30c8a923e3e27dc5d7c7c624d66e151b377eaf692a519ba4b9533e283"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlmodule.lo",
+      "kind": "file",
+      "bytes": 313,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "48c751d5bb07263c9869b265daee9d6264ca77aa94f9ee04bb012b5da4d7b445"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlreader.lo",
+      "kind": "file",
+      "bytes": 313,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e3063c8992b65fe2892555ffde5b3ae2d9035faac98aed11c1cc0c6bcf76e7f5"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlregexp.lo",
+      "kind": "file",
+      "bytes": 313,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "34937359cc6f5a9c4d5550e229c6dff053062274c277c53a67a147d34fdaa40b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlsave.lo",
+      "kind": "file",
+      "bytes": 309,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0d0823759d47bf7db006d902783295bf9dc5af36b76f638961753aa4b8dce708"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlschemas.lo",
+      "kind": "file",
+      "bytes": 315,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0c10a1510d8fdefcf065dfe62aff63adec51a26de218bf0b10e705b14c13e475"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlschemastypes.lo",
+      "kind": "file",
+      "bytes": 325,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c7f9139a25945f482c7aa318b201892ed7b521599c77a6c76e750271eaa714a1"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlstring.lo",
+      "kind": "file",
+      "bytes": 313,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "3b5698c4c31ecca0841c93da7305379f12a776ebaabdef5e466685d22442e225"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlunicode.lo",
+      "kind": "file",
+      "bytes": 315,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2a08dd0e02984d885025130c24e47b7f2e331af3757d57a50a05b95ead6e1f31"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xmlwriter.lo",
+      "kind": "file",
+      "bytes": 313,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c996f73aa5d5dc91ed76d5e98725184241b426c0a8ef8e31659feafe15b05dcd"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xpath.lo",
+      "kind": "file",
+      "bytes": 305,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "69d25d237ada7a2dc682d49df2f6d7cb4c99a4bfa911789d6cc28bb37bb30580"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/libxml2_la-xpointer.lo",
+      "kind": "file",
+      "bytes": 311,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "950a5127f60a6ed94edb49176d362caed62e68487b46b904611427f44757aa65"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/testdso.la",
+      "kind": "file",
+      "bytes": 896,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4aad2d4152a0231e35b3db1e9383bce8b0f67e8bc926803e13c4e8013bf5590e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/testdso.lo",
+      "kind": "file",
+      "bytes": 287,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "42520c76fb3eb01bf494b065cc78ccc872a881888ac260970568b0f0d8043462"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/xmlcatalog-xmlcatalog.o",
+      "kind": "file",
+      "bytes": 40224,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "5db0a6666a78b345d281d8eb9c3973687c3a2637f56a1730e43504844f42235d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/libxml2/xmllint-xmllint.o",
+      "kind": "file",
+      "bytes": 331976,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ba7baa7a8ba515ba638b4e3090915c58c7f192b0f2011f9ebd09ec8a55463b9d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lapi.o",
+      "kind": "file",
+      "bytes": 31936,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "8c9ec55c792f8bdad40047d2748c38b4fa007a8bf848ed62d8b5580724e1bf83"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lauxlib.o",
+      "kind": "file",
+      "bytes": 32432,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "a0914283fc9e727ed784d9d7bb7788754d993108b8fcc369bf6dabaeba65d09d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lbaselib.o",
+      "kind": "file",
+      "bytes": 19360,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d971e9203b55d04d7de446a8064699f83180399941b348b4286d5a4a2c996a87"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lbitlib.o",
+      "kind": "file",
+      "bytes": 7096,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e9f4e57584dc22dc579e009c88df8e5dc3303b1c66290880dd3420e7286931b7"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lcode.o",
+      "kind": "file",
+      "bytes": 18856,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "441c4c3f6527627bd219b61834839af1092833352f0cf4fd363979ae527c83d1"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lcorolib.o",
+      "kind": "file",
+      "bytes": 6632,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "9d78731cfe414a7a058fb5f2cb100a70db9eb87eae54a058212dbd3885a64cd3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lctype.o",
+      "kind": "file",
+      "bytes": 1168,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "06bf0600936165d5f74b8f7c0c07492a395fa9690453a3d52eebe511d0d46f0e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/ldblib.o",
+      "kind": "file",
+      "bytes": 19816,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "419e9a112c3fb4b342c359669c274743038c083ee5a3bde0b7237c94ae71c4de"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/ldebug.o",
+      "kind": "file",
+      "bytes": 10112,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "745ec4d073bcefd8d21bd2a6d817537056403626764d36462a9a08d82644dc49"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/ldo.o",
+      "kind": "file",
+      "bytes": 12808,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "b864e39eecca5c7a96c41197d5581e485240a081aed09bfa446087c12971b4d7"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/ldump.o",
+      "kind": "file",
+      "bytes": 3064,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "aba3fff6341f71d3df5839fc18dfda1d9fa8b59dc7c3513f90b6a9b3226ef577"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lfunc.o",
+      "kind": "file",
+      "bytes": 3496,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "511d5944bd604dc9747034f7a714cfb4ab51d6a98c51616b6173d62dec720c31"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lgc.o",
+      "kind": "file",
+      "bytes": 13248,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "23a17e85a2e7aa3547ec5b79d9786775ae5033bd5d1915a513c7871886c5d86f"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/liblua.a",
+      "kind": "file",
+      "bytes": 398166,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "172b8b9005c14a51dfea2fcd751bcfba83bff89d5ef89911baddec84562665d9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/linit.o",
+      "kind": "file",
+      "bytes": 3880,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ea1d88966ea4da656b34155d98b97c958eab6155d62090a623ce79726c917209"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/liolib.o",
+      "kind": "file",
+      "bytes": 23096,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "a34dd3e75dd126d42bd72c65409ed1c7d1ae9ea00874a97ffb4e62bcd2a64df9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/llex.o",
+      "kind": "file",
+      "bytes": 18760,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "9d154d782e1f46301111c2c5c5e4580fe7bf1763bd64146ea11953364d798e23"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lmathlib.o",
+      "kind": "file",
+      "bytes": 12736,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "319270111cdcb81bb52262f5a32db513d8e06d0ff6f0ff717d292c2abc72c794"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lmem.o",
+      "kind": "file",
+      "bytes": 2456,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "7c092b1e9eb1a9853eb8c3c1defc17df59102acc970677c0b9aceb17729b057b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/loadlib.o",
+      "kind": "file",
+      "bytes": 19016,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0c0ed620dcc5f09c62aab20c26c5b042b3e83d785ba2e094711c87212703dae2"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lobject.o",
+      "kind": "file",
+      "bytes": 5888,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2559163501eaf0ace4e686549fa32a54d71d76950baf1a7464e901c30b2e3ff7"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lopcodes.o",
+      "kind": "file",
+      "bytes": 2856,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "45bbdfad2e41b80811dc10cfafd0ce74efd66ee5b901134e2f6f0d7ff02306c1"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/loslib.o",
+      "kind": "file",
+      "bytes": 12496,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "93e11ce9b63bb46b94c2fb06a6a2b8a1baa17662b8033ca842ff77e7758c170b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lparser.o",
+      "kind": "file",
+      "bytes": 28992,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c2101f7da5fac201141f6d3fe6b84f4b957fd240c0166f5710031014ec30b2da"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lstate.o",
+      "kind": "file",
+      "bytes": 5672,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f6470cfad36ed56a6df319c9adff04d141bdd87e7ab4a2347049405675bc43d6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lstring.o",
+      "kind": "file",
+      "bytes": 3656,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d743ef5d80e6925b5ca74843aa75fa0bc47a9f9fbd9960fcb24c2465d640c819"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lstrlib.o",
+      "kind": "file",
+      "bytes": 21800,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2fb632becce72f3d9358776a9265236cbc04d4b310b462e1decc9b97fde38921"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/ltable.o",
+      "kind": "file",
+      "bytes": 10064,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2b0c4f2f7869ba078a549688b4c3d56112ee06df20038cc8a6fe127423abb3c1"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/ltablib.o",
+      "kind": "file",
+      "bytes": 10696,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f9355ef8d84e28cb8f87b8548a14657caae9a5c85279190842a1050f248c4de8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/ltm.o",
+      "kind": "file",
+      "bytes": 4168,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "69825599d2222d2e9587ea287f0852ccfa52b52011c1fa6c9666989b3b893d08"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lundump.o",
+      "kind": "file",
+      "bytes": 6000,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f03bce1f17b7599b4fd85935dc3a92b86d3df666900dbdb05c8257b79a0499c1"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lvm.o",
+      "kind": "file",
+      "bytes": 16720,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "970ce6c8bbf4f0387666bc12525886de145a2de87becbabbd265ab108e8030f1"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/lua/src/lzio.o",
+      "kind": "file",
+      "bytes": 2024,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "3aa75288140bdbfc36c9e6de9b5c5321a2ff2032ddb490aeed69104a96a8758e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.o",
+      "kind": "file",
+      "bytes": 792,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "868e437d30c55fad88963863109cd18b33dcea2d7bd422c0a479c47a9651e6bd"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/3rdparty/everest/library/everest.o",
+      "kind": "file",
+      "bytes": 776,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "b7dfa67f7212083804cf14b6a8f61669e8b7c4007c50b1a14de0560d620a1a5f"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/3rdparty/everest/library/x25519.o",
+      "kind": "file",
+      "bytes": 776,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "7f3370b9024fab9c6e721ea039fd7e45d0e1657d462bc9a3d87a261f41aa6d53"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/3rdparty/p256-m/p256-m/p256-m.o",
+      "kind": "file",
+      "bytes": 776,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0209e70e71bece63e9048a43e1e022bd0caa345468c7751ff2a9d1bc7e7834f3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/3rdparty/p256-m/p256-m_driver_entrypoints.o",
+      "kind": "file",
+      "bytes": 800,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "9947bd13e1879c062721d67aedeb5d3db2f334cf3b0dda5c62b1a7f95fd0aeff"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/aes.o",
+      "kind": "file",
+      "bytes": 24920,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4fa98d1424cdfc1c368950f7f03856bf3751c624ae9668d42d221495471fa7d3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/aesce.o",
+      "kind": "file",
+      "bytes": 3192,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "b0ff438faeed7b02e25ef52eda69245a5bd2b16ebe38ecb1b6b7898e988a8363"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/aesni.o",
+      "kind": "file",
+      "bytes": 776,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e6c56b812a7804d2a843bcc2fcc961ceec162947e76cc3df3d789b4ad6a1c291"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/aria.o",
+      "kind": "file",
+      "bytes": 15808,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d1cbf1df2cadcf31b5159ce9505da92bc71455665d703dc03bd1a7d13ddc137d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/asn1parse.o",
+      "kind": "file",
+      "bytes": 7040,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "cd9a1b48a8bda4403ff083d45df6411a6806fd8b8be270b33193e07af295ba6d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/asn1write.o",
+      "kind": "file",
+      "bytes": 8416,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "3862b8a6c2c48dd86abea422f9963ad111620dd510452d2590e6b1537fa3e952"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/base64.o",
+      "kind": "file",
+      "bytes": 5448,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "336e37b224bcbe2338457642095210e19294dfa0cb5d4109de34a3103369ae55"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/bignum.o",
+      "kind": "file",
+      "bytes": 38344,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ab60a3211e728c4c4316e9b83df49e9136c620dd0f40548245ff30b3678a6d54"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/bignum_core.o",
+      "kind": "file",
+      "bytes": 13704,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "81b187030acaa62aa7e38f3b46ca24d4367565682930c6b0ef6a1d72ca6b0bb4"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/bignum_mod.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "dfe4984743acc8af377101d23cdf0b4bbc70ccba852d26f48035884d3e49f826"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/bignum_mod_raw.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "401bd26d2a98bbe82e5a17b25498530ae8e27808a36d07453359f0a1a870a796"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/block_cipher.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "eb527de40133765f905288f35756fb9317ae15115282100d54476f7f47e58f1d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/camellia.o",
+      "kind": "file",
+      "bytes": 18216,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "a36c90a56779459020b9de2cf1bd13844434d2592c1ec9c682eb2ac753b09791"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ccm.o",
+      "kind": "file",
+      "bytes": 11336,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c15f1c9ab7105b68861eb8592cd2083b6073b3210a1a4de33b0f8653c4d995c5"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/chacha20.o",
+      "kind": "file",
+      "bytes": 8200,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "dd54d1b8635bef31d8e513cd72bc2e69fd661ab5fc5b0bc19589d2eae87e47ee"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/chachapoly.o",
+      "kind": "file",
+      "bytes": 7056,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "1db7a970de5ff9f95d45898c977786a56a1f067414f37be7c09fb2a242c74aaa"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/cipher.o",
+      "kind": "file",
+      "bytes": 14016,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "aa79cdc36bb26830ffab8874be2f49bc32fd1716231d6375894565fe39717909"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/cipher_wrap.o",
+      "kind": "file",
+      "bytes": 30392,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "472f37adff0b556e35a15967cda54b188b9a15b61179953cd3805afd406e30f3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/cmac.o",
+      "kind": "file",
+      "bytes": 16216,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d799a4083a20ee13a589350edb786d54127d67049488c5d91e98375ea9a8b0ad"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/constant_time.o",
+      "kind": "file",
+      "bytes": 4680,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "814074d422df86836305983fc496c4572aade6d9a657c3602d56ed17c77c2c56"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ctr_drbg.o",
+      "kind": "file",
+      "bytes": 11456,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "51f0715933702ebb68402c11b11e9649140a285c462aec0e4316b22679921cba"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/debug.o",
+      "kind": "file",
+      "bytes": 8632,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "7aeb80401d33176c59dac9ad6c3624b09d9d27f197149b2176e44c3e282f708e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/des.o",
+      "kind": "file",
+      "bytes": 17544,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "13fd112fb1547508c716ac6e930a6655d5ec629a10a3d72c28b62c5c534c0ee8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/dhm.o",
+      "kind": "file",
+      "bytes": 11424,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "8c9d6dbd4e77f00bafdf6508fe7fa16b1f796c97f40bc5a91be794e2052835b5"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ecdh.o",
+      "kind": "file",
+      "bytes": 6832,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "63c7bcbe315cd76b1fadaa6a627f182fcaa1deb095e2f4dc3f5a75f98ef716f9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ecdsa.o",
+      "kind": "file",
+      "bytes": 9832,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "20f1835a2f8bf0998e21b48979f1c342e2076ef6d5cfff386d8500aace796aa4"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ecjpake.o",
+      "kind": "file",
+      "bytes": 20544,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "5f036a08d6634874ec8cebe8376d98fc9b5c6400f1b5919bfc8dac4ff26b7599"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ecp.o",
+      "kind": "file",
+      "bytes": 45896,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "502c4778159e1ee2f2ce0eb0aeaa6c93cab11a949ebb7f3d756f7e1222d92fb6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ecp_curves.o",
+      "kind": "file",
+      "bytes": 88320,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ff2e896fece4e3ce565876ed39b4abe743bf79045b5884a58c389022b282ccf6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ecp_curves_new.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "9f0fa6afb2d0ebe2d436837186bdeccb6b3279881576dd18e6a889ba66fa8722"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/entropy.o",
+      "kind": "file",
+      "bytes": 7776,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f7e160d4585b895dc1060b375368eb7f5a1d28d4872e77e74dfbf36416d0bcae"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/entropy_poll.o",
+      "kind": "file",
+      "bytes": 1824,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "5e9f344f0527ff6cb0a7a6caf3b97705a117218370ad9736ec9f7b43214dc0d2"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/error.o",
+      "kind": "file",
+      "bytes": 22480,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "bb3627b9282f27598e1424be7544bc88c0823555dee20f9191a02a9adfdb67fe"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/gcm.o",
+      "kind": "file",
+      "bytes": 17544,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e911b85425b248dce050fe15cac83527c4ea1e26f3e4fca5d9bb793d5164c2ac"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/hkdf.o",
+      "kind": "file",
+      "bytes": 3616,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e72b61b6ca4cd6e883c0a4b80dc520323e3d6caf3d00df2a7fa2bac98ed69d18"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/hmac_drbg.o",
+      "kind": "file",
+      "bytes": 10576,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "39fe3570eb2b2a899954a48d6dd229cc0421485ea606ced2077db69ba72bc029"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/libmbedcrypto.a",
+      "kind": "file",
+      "bytes": 984940,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "cd92911b7ceb011ec77baf233096acc2c6d04e577753ac52c42bc96aa3ce14f6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/libmbedtls.a",
+      "kind": "file",
+      "bytes": 527908,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "96e590bc0353ca76521ae9dd2c203a11092080f1643250438a46b775ded8c0c3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/libmbedx509.a",
+      "kind": "file",
+      "bytes": 109438,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4c13966dc0cd33fc0625cd0a0a9696ec3d9690f200c46f49c057b2e1a2734bd9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/lmots.o",
+      "kind": "file",
+      "bytes": 5536,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "900fc2e8324f9491900f55bae298b5ddcdd302963faf32c4eb2407317a1be8b2"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/lms.o",
+      "kind": "file",
+      "bytes": 4624,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "581036c271542cd63253d9f22f6194a07bdcc24721dd2104f0271799215e65df"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/md.o",
+      "kind": "file",
+      "bytes": 16648,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "484d90f37721a6df70e14dbc5a5cbde99890221ed2089ebba01ee1490a445814"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/md5.o",
+      "kind": "file",
+      "bytes": 8408,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2dc31e7cee7839a95cda4e6d002865927dfdf46416e27b5b3805da54cd7d8916"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/memory_buffer_alloc.o",
+      "kind": "file",
+      "bytes": 792,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "28671813683d0d58722333f5339e7a74b41962b4cc465709d1403a6bd705119d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/mps_reader.o",
+      "kind": "file",
+      "bytes": 2672,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "582331e657fc99d1efb9cbd62600f94b596376632f472669d875a0b6043e618f"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/mps_trace.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "acd3270bd6c9116204b6dbfc49175376cb857dc70567f22825dc6765a36a6763"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/net_sockets.o",
+      "kind": "file",
+      "bytes": 7216,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ebce66ccd5201c5231d31e12857c7d41c7bd9c63a5dc7bce82530cb1d824ccf0"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/nist_kw.o",
+      "kind": "file",
+      "bytes": 10456,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4f080555dd0c9384e1462b0a20a776c668844481be3098d90d833ec4c86baff9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/oid.o",
+      "kind": "file",
+      "bytes": 33304,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "13d405532c413dac318c1887bb8c931d7bb2b6288e9733e97885242205f13948"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/padlock.o",
+      "kind": "file",
+      "bytes": 776,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f0b459f8acc58711b90ad74112b03490e941d576670b0285ac3474f787f542f9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/pem.o",
+      "kind": "file",
+      "bytes": 8264,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "227040f41f6cad8032e625aaa1456aac2d9b333bbfbed76c66f012b274dc8620"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/pk.o",
+      "kind": "file",
+      "bytes": 11824,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4ee005527c109089cc792f6fbf5c57782187dcd0452aa75814a22d44b7f2c6be"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/pk_ecc.o",
+      "kind": "file",
+      "bytes": 2416,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c4ed8505b199cd00c4dcd84371b9555fb081e6172e0eb1f29ab87e6b36f62374"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/pk_wrap.o",
+      "kind": "file",
+      "bytes": 9296,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "db10392705f67413ea93d02bdcb45a2766f0b5bcfa3a3e13700903b925a5ab29"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/pkcs12.o",
+      "kind": "file",
+      "bytes": 5096,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0d732901ad696281b6fe10390d0516960e3125a997425198d110e121c946d47a"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/pkcs5.o",
+      "kind": "file",
+      "bytes": 8320,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4d0c62041e9f6e9a4c4ed3fb71e8170b66eebeeb93973c5d2e1753a7b72de595"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/pkcs7.o",
+      "kind": "file",
+      "bytes": 7800,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d42b1479a0bb118d3ca951bafc88cdf28d23693542c8ce562b4f3c87596607eb"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/pkparse.o",
+      "kind": "file",
+      "bytes": 15240,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ae331295947322601c5c7114d4020dd1ac7c613d5588769fe741aef8f77e26ff"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/pkwrite.o",
+      "kind": "file",
+      "bytes": 7528,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "1768504fffc18ed4fdb8e9c3bf22f4912633c605b0da745e40be25a07a94dad9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/platform.o",
+      "kind": "file",
+      "bytes": 1224,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e4810fd8db6a1a4e7becda80bb4a154780148eb13d2e0b3f583035b54ae895a8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/platform_util.o",
+      "kind": "file",
+      "bytes": 2344,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e38e173868832871b049ac50f007e9393b9171bb09af99cf64ea9336e7024fd8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/poly1305.o",
+      "kind": "file",
+      "bytes": 5520,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "8f41e2d759f924db928676998099a98b0cfe31dd51f2b18d60734e819a4e5a3a"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto.o",
+      "kind": "file",
+      "bytes": 83512,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0161dee0e894e6ea566bbadd0f9e3f98b6a212b167d3773ce49a9045e0d010a9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_aead.o",
+      "kind": "file",
+      "bytes": 7776,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c9402a5feea294fed1c1b465b5ed7ed3017e934e247ac2c54f5f119b87df5720"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_cipher.o",
+      "kind": "file",
+      "bytes": 7432,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "0890047ecc651523d0c8758dffbee1b84b90d60060276ae8e90753e7158f04f0"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_client.o",
+      "kind": "file",
+      "bytes": 1136,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "6232378a749958f1f20f1ca3f5ec83f50f13898e8e7fc0cc444c50b6d39ff92c"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_driver_wrappers_no_static.o",
+      "kind": "file",
+      "bytes": 1552,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2411498492214d6771f28ee48335fd5c9032b8c1dede3f1aee7cdce7b0320543"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_ecp.o",
+      "kind": "file",
+      "bytes": 8728,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "3b825675cb5ca7055c0743a809fb3efbbbfcf4c8820091909ad7eab3747bfa67"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_ffdh.o",
+      "kind": "file",
+      "bytes": 9528,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "372c72b4497cbe25f331d31702e3f56da7a9ebfa37689f87c2be914f25b795a3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_hash.o",
+      "kind": "file",
+      "bytes": 7688,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "8d64caf056ed1d4c77b54697913b790a589cf7e45601f4dd85142c825b7b844d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_mac.o",
+      "kind": "file",
+      "bytes": 6912,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "159d6289ea68f5da0f9dc6c5ac276fc4d18fe98ac060e8b003ead993418e41ba"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_pake.o",
+      "kind": "file",
+      "bytes": 6344,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "fe8025e0e397fd2fc46a2c9fb2829b974cc8f5dc97701887e31f293150bafe6d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_rsa.o",
+      "kind": "file",
+      "bytes": 9608,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ae8e1d0433c6289e92942a7c780f403d80a8bf4c784c8847447714b57a6fe408"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_se.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "9bfe036e2b85edc49ec93645a2db50bd32df72179a60462031d953dea074a6c0"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_slot_management.o",
+      "kind": "file",
+      "bytes": 8416,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4937842e784c6452b9873c6bedc72a47e5ddc477df5534735896e61d3e3f60fc"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_crypto_storage.o",
+      "kind": "file",
+      "bytes": 3992,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "508ff803a89fdd3d4c2533cc3fd6d099d2af4b7def907b529bcde35b8eadb6b3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_its_file.o",
+      "kind": "file",
+      "bytes": 4336,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "08151497af2f4992225b6f7a3a2490ecf695407146f33233755b6a7b4dea1abd"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/psa_util.o",
+      "kind": "file",
+      "bytes": 5120,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e2b0ebf290c6a849425856cf2c2181f4add20da8dc6b7ca33f3c8b7c14f84f14"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ripemd160.o",
+      "kind": "file",
+      "bytes": 12424,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d81ac5588a3c65dfe06cb91ac0bc297ee72c446eb21b22f2115a6a947452a253"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/rsa.o",
+      "kind": "file",
+      "bytes": 36376,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "5aeb14d8be7973928725bfb3e0a039032b2e50b905a3261e92f4323e678ffbf0"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/rsa_alt_helpers.o",
+      "kind": "file",
+      "bytes": 7408,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "27fb8c55b6d429baafce42b13f5a064667dc7f34ab2b9973b92465a898f8b75a"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/sha1.o",
+      "kind": "file",
+      "bytes": 10248,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "dc069ea21ab631966e66a6368a2c497a7e39c84df457cde4ecad506eecc79cbd"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/sha256.o",
+      "kind": "file",
+      "bytes": 10464,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f025c27ff26137d850f4c1380eaba2f26c053241c4f729534599df4e247cc826"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/sha3.o",
+      "kind": "file",
+      "bytes": 12600,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "7379d9a46e5f84d21245bd477722a659b508ed494c0baa7adee76f121489a717"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/sha512.o",
+      "kind": "file",
+      "bytes": 10896,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ca0ec88272ecbeda66aace1aa89586a36032d8f8e6f91925d74180d8921267cb"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_cache.o",
+      "kind": "file",
+      "bytes": 4040,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "a61aacd56b1b54d006e94fff8af467476b83e4697ba9df07bc66872688f2c53d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_ciphersuites.o",
+      "kind": "file",
+      "bytes": 19728,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "3e21b1c89b004ab3f6066365eebdcb68089e457ba512d4fcc40dfff3d5abba36"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_client.o",
+      "kind": "file",
+      "bytes": 11864,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "3855fb6f98249b1d45324e23aba41c40f5da3b34863d0935d856b6d65caf0194"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_cookie.o",
+      "kind": "file",
+      "bytes": 3472,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "5bc9d7cb61b853d969482dd3ff69ead3f11f53d6a2d982ee12f7180664ff7d13"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_debug_helpers_generated.o",
+      "kind": "file",
+      "bytes": 9872,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "681289437762ab63040151db397ec4d998bf305d0a6e5d0a88e01e2827d8d19d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_msg.o",
+      "kind": "file",
+      "bytes": 81304,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "3f6d05762ae73138f9d18fd26714871eee173a94980c79eab1b8a61df3d07e84"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_ticket.o",
+      "kind": "file",
+      "bytes": 4744,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "6d92b38074fd44ea7ab345c4f51c816dcb083dbc33c0f805184f7921b1202f93"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_tls.o",
+      "kind": "file",
+      "bytes": 98152,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f7ebdf8e59b4c2574bc7fc121e86dd00d01de221eae1ffce4d06021c60d39172"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_tls12_client.o",
+      "kind": "file",
+      "bytes": 47992,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "fb88a570fbc83e1e22072cf0ecf0e5d68dc77115950af6ab43fdf421e6db0cf9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_tls12_server.o",
+      "kind": "file",
+      "bytes": 59000,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "822da9003998432383c88a2ceaef1d1522a0bec2b340b7ed811ccef2ef7a7b55"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_tls13_client.o",
+      "kind": "file",
+      "bytes": 47232,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "20b5eed780ca665a7add8a6f6423a66473cc61482a50951bd80de8cc6ee8f316"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_tls13_generic.o",
+      "kind": "file",
+      "bytes": 29440,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "881e2d7351f504a79ea4e48347bc75124734089d19701d39e218a1bfc7e328e6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_tls13_keys.o",
+      "kind": "file",
+      "bytes": 26848,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ec2a0474b3a0919a66ee5bb2cef3df1d3a88b9bf0b735b49a08fd8e492ba2770"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/ssl_tls13_server.o",
+      "kind": "file",
+      "bytes": 53400,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "99a80bb533ffeef83b9a70a116807e2b74a577b3b31df025f91a6b78ef1d35cc"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/threading.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2097e9396c96661ec13486fc919123d6807f0041db349bd08ee51e8b1976c4ad"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/timing.o",
+      "kind": "file",
+      "bytes": 1968,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "44446b1be4d498a3386c40fa7743f2341ac457446d5ff0bdd3a34026c82a8df9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/version.o",
+      "kind": "file",
+      "bytes": 1640,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4864a8a818fd5382ee6487b3ff6ef45f52e5ad8baf1f590558ee7efad9630852"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/version_features.o",
+      "kind": "file",
+      "bytes": 8832,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c1629c26817026208d7e61f63522f19af86adc962b1a717afb5d1f4d81535e16"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/x509.o",
+      "kind": "file",
+      "bytes": 23168,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "93d4db0193e2e3af58ed629079f483654ea965ea354fbafa0a613bac9f2219d8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/x509_create.o",
+      "kind": "file",
+      "bytes": 9160,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4c1317f9ef7fa9e20349b8f2c4d378a856b7fed01a8ad7fd9179fe8f72019cbf"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/x509_crl.o",
+      "kind": "file",
+      "bytes": 9216,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ca5f351470f34ff0daab427078dba68f38f303af267fa08953d56fa2fbd9ff41"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/x509_crt.o",
+      "kind": "file",
+      "bytes": 27096,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "4441d00f30448efff58f18d21389233e1f416dd83faa3b3d99ab2cd9e5c42185"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/x509_csr.o",
+      "kind": "file",
+      "bytes": 8968,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "80d62c162f0363417c554d38c8d82fd1d765dc97deea28421fd4405dbd0b3648"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/x509write.o",
+      "kind": "file",
+      "bytes": 2672,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d8aa71b8bd0228d1fa0c6618bdaf7fb2cb361251a124a8f865073878849f85d8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/x509write_crt.o",
+      "kind": "file",
+      "bytes": 10880,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "337e04290998ae8f2ca0e184d3d34cc5bce0c40d3805df3c765aad1972843b1d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/library/x509write_csr.o",
+      "kind": "file",
+      "bytes": 6304,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "27f5dbb405bd045b0c29eaca58044a32b31535952608e06997991258c38b52d8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/aes/crypt_and_hash",
+      "kind": "file",
+      "bytes": 981144,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "72ff2bf21970ee2ce200fc23ad4f4d325038d7cac44f9d96587a00c8c59d42bd"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/cipher/cipher_aead_demo",
+      "kind": "file",
+      "bytes": 978792,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "ec121d6bbe64de7b0dbd4c4f82a4996fde30668018f1585110e4739dd3f04082"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/common.o",
+      "kind": "file",
+      "bytes": 2696,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d05ccde456c41e0edf924ad42dcd38c384ce97f2c1ae257a61ff670aa4c0bf5e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_client",
+      "kind": "file",
+      "bytes": 979344,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "cf05db7adcf98be5db41bc7b8ae2b17b13648d7e97afd9e54f8ae658e3aa38c3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_client.o",
+      "kind": "file",
+      "bytes": 5920,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "aa72efde9e4d6297aedb18e16ff92a9e04d9f20d49fd05fa411f88f97ba34185"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_dtlsclient",
+      "kind": "file",
+      "bytes": 979048,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "3ce97bacc5afcff9f2bef3f994e9f93af4d45e67f5b781438ea8c902047d81ed"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_dtlsclient.o",
+      "kind": "file",
+      "bytes": 5120,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2ba6597e08fd3bd1ba82123054d9e8c07bf65f6e3ab2ff0b93096f622b9fd68d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_dtlsserver",
+      "kind": "file",
+      "bytes": 981192,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "24d58a3e6aaa8fe3b8ce1b7470c9bbb61d60eb3656d272c2d0a87d245320e9ce"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_dtlsserver.o",
+      "kind": "file",
+      "bytes": 7544,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "94a6fe4b336425112dd153b5eff1b0419f21fcf265aed1685605adf094bf1606"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_pkcs7",
+      "kind": "file",
+      "bytes": 987000,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "a294628025423498bbbbf7705c9128835d06e20b97157a597fb956ce69e6e87b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_pkcs7.o",
+      "kind": "file",
+      "bytes": 1504,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2b7b9a66e4a3d847d67b33465d3ec30c172c1b912301aa1425205a75cdf49fb4"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_privkey",
+      "kind": "file",
+      "bytes": 978832,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "8ceda75ad8ef703c95fd90323cabfa1a540f5d31b7f82018d74b3f66923206bc"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_privkey.o",
+      "kind": "file",
+      "bytes": 4008,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ca89336a9b63ec3a984b59bb18e076dca1ab93e4395756f22d1e726f274ed9cd"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_pubkey",
+      "kind": "file",
+      "bytes": 978712,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "86cf074f12b27195c52b3ac7e88ac2b751e6ab89e2260e71b895f35055b387cb"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_pubkey.o",
+      "kind": "file",
+      "bytes": 3248,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e92d8dd4e88c893951702529fa2cebcd7b31760619ed472e4ac5885584dd7296"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_server",
+      "kind": "file",
+      "bytes": 982416,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "a281b02db0a1c7f549b412bb5827c8ec4490c47cf41b975da7a743eddf60e117"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_server.o",
+      "kind": "file",
+      "bytes": 7720,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "c0590ea122c465e4d3fc63d9032044949e06a65a2f91017837ca98c04518d35c"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_x509crl",
+      "kind": "file",
+      "bytes": 982720,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "6ea289c1c9974092f2d433894ec366b318c79996184dabc9eab736ade697b537"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_x509crl.o",
+      "kind": "file",
+      "bytes": 1800,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2c5bbab494f8c94d9c09d6a0f8b47aa30ea2dffac34d469a330816b90dd57fb0"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_x509crt",
+      "kind": "file",
+      "bytes": 978152,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "3a17c569983667b92d1cbf76d204a738e77362038448244800f3a2dc1b83cd06"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_x509crt.o",
+      "kind": "file",
+      "bytes": 1816,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ee46d67d475877cafaa903f04a0314a8565c52e977e82af431b1004a7b9a4c3c"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_x509csr",
+      "kind": "file",
+      "bytes": 982232,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "71130a8280e006ea5e44356aa3cf76df19254ed6e07400630b8858384b865a07"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/fuzz_x509csr.o",
+      "kind": "file",
+      "bytes": 1800,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d5a35762a900cdfcd252676b9c7d3b1d0213c8f0456835058bb33f20decf32e7"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/fuzz/onefile.o",
+      "kind": "file",
+      "bytes": 3448,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "766756eb0901a86162a7017f9c0fd0dbdad4280bd19dcda85c31af1ddb3805af"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/hash/generic_sum",
+      "kind": "file",
+      "bytes": 977752,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "0f824042420109b8995518f86b52144ce4118d96b56ebd77683decc400676929"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/hash/hello",
+      "kind": "file",
+      "bytes": 976192,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "ae170d8586c521e71a8b4aff0c0e2d75ddda41e8846292ff022f369f37ec9e69"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/hash/md_hmac_demo",
+      "kind": "file",
+      "bytes": 977432,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "4b28189fae62daaa01aaccb963180d7ec3b0ed85c182e835117e6c0f061caad2"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/dh_client",
+      "kind": "file",
+      "bytes": 984760,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "e5c849428bacfb5ff2277aac8c93f0218f55b9bc67d178f88427aa44711e35e8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/dh_genprime",
+      "kind": "file",
+      "bytes": 977664,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "744e51cfede59ef5946bffb304c071f94495e5d936eae8559b5c335098d0d781"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/dh_server",
+      "kind": "file",
+      "bytes": 985224,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "8f9276ff637265edd3bf37bd32a007703f9d330978c4ce65895f7c0c35684978"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/ecdh_curve25519",
+      "kind": "file",
+      "bytes": 977368,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "93edf20addc53d1b43c5c5b32d636107f41e5feaf310f6b8afc2d2f3fb627eac"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/ecdsa",
+      "kind": "file",
+      "bytes": 977728,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "1f7031571e9467d8bcad4ea803d84bb71e07f703578744e010d999c6b50d04b2"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/gen_key",
+      "kind": "file",
+      "bytes": 1004520,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "6fa274ce375162343e464f0728045d1c937950838c845d40fdf78719baf16509"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/key_app",
+      "kind": "file",
+      "bytes": 999976,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "9e9ab0f72d0ae2c981f567642bd5025043efbfd3dc81a30ff7227ea701315788"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/key_app_writer",
+      "kind": "file",
+      "bytes": 1004048,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "6838d2ca03d3f6b21cc2137b6c2adc21d81363bbb423ffc3373a6b506d12f109"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/mpi_demo",
+      "kind": "file",
+      "bytes": 976840,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "ae41df825950182b58b61a867c7ef77880249e70429c6c6e117f224dc8f8bccf"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/pk_decrypt",
+      "kind": "file",
+      "bytes": 997728,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "b692d08ce35c392f71feb812f27268387aac8a57b1726365285a638e9983b032"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/pk_encrypt",
+      "kind": "file",
+      "bytes": 997704,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "18939637eca398a100469243f66c8b0040bf71638e9b81ba4b4a40fd5d3def57"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/pk_sign",
+      "kind": "file",
+      "bytes": 997640,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "26c1a6b8da6ca25599e911e0fef9893b44156edf56671b7b0bfb73f6604be5f8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/pk_verify",
+      "kind": "file",
+      "bytes": 997296,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "18d3a8f69436a418ccaaedb1b49716ae41091ed38b96772ca84586d20623560a"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/rsa_decrypt",
+      "kind": "file",
+      "bytes": 977760,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "60204be4896ccd0d74c87f2f96f865e76d36b04d9f5003ec06b9dec6b0e3872c"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/rsa_encrypt",
+      "kind": "file",
+      "bytes": 977320,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "cc62fb5439ac9889fa1a6cb38efa5ed2675b0dc1eda6cc9d2c698335ec3969e6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/rsa_genkey",
+      "kind": "file",
+      "bytes": 977528,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "769fff57d129f3759aaa08c6e9d84e28872fdd47c3a9f43fb83b0de970378d58"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/rsa_sign",
+      "kind": "file",
+      "bytes": 977520,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "70b6afa97e15839d6b5dc52f37f1a9e6d5e0aa5ed1d62a02994d061fce38296c"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/rsa_sign_pss",
+      "kind": "file",
+      "bytes": 977240,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "a3e0fc209a77da94a167f3876a1b6885b104ba9c2f53f2ab1e3ff14901d30ac6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/rsa_verify",
+      "kind": "file",
+      "bytes": 977176,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "2713664e9a2009bd20df6fa88e5b19b118c51a7438a2b33cac86fb0c92eaa2e9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/pkey/rsa_verify_pss",
+      "kind": "file",
+      "bytes": 976896,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "52d2c74fa043c0bb03de3bcf64b5af9849aac61aa6fb5fc028516949c1cbeec8"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/psa/aead_demo",
+      "kind": "file",
+      "bytes": 979072,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "3348e499bd0a2df296d69467364d199e37472c78185280566c3d486ebfaaa55a"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/psa/crypto_examples",
+      "kind": "file",
+      "bytes": 978720,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "0c93360db0bd129c8008bf9d4555b3d252d9c265a983396a63ab76c8301c1663"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/psa/hmac_demo",
+      "kind": "file",
+      "bytes": 977504,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "910af76e7ea2543b4c38ad39ad2a174fa33b0c866f0caaa81a91ca85f30d53ea"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/psa/key_ladder_demo",
+      "kind": "file",
+      "bytes": 985472,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "99615b8c881a9dfc497c41188d7a4996277c6fb855a20c5a9ac10bc3822f694d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/psa/psa_constant_names",
+      "kind": "file",
+      "bytes": 992752,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "e3313dfaf4914fa453860ffee5f7ef4beca8940369975a72a14035afaa99c17e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/psa/psa_hash",
+      "kind": "file",
+      "bytes": 977608,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "1799afc14b02f690f1c5174841476272c41a94568f3cdaca38c87a24e013cfe7"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/random/gen_entropy",
+      "kind": "file",
+      "bytes": 976480,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "2cf7687f46a16b71a97e084ddc09edee41e95f0b5ae5474be319a8972de0edc6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/random/gen_random_ctr_drbg",
+      "kind": "file",
+      "bytes": 976808,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "b6581e095a1edcbe0bcf40ec662ef4ca16660d6b321c503e3cec57b2c387322b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/dtls_client",
+      "kind": "file",
+      "bytes": 1005424,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "1e04150b4a2ae0666a7ae95aa7ee6d590f593331d48945cdab39ae60193e1341"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/dtls_server",
+      "kind": "file",
+      "bytes": 1007592,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "6c1f86d9de7f504e0d4d55a78dcc30bad5a3616b6155afef9a5188011be7c409"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/mini_client",
+      "kind": "file",
+      "bytes": 983752,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "53a3ae9207238bc119da5e0a65fdd3de71bc07a60c7603826c66e11f0a593a46"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/ssl_client1",
+      "kind": "file",
+      "bytes": 1005192,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "1bd7352bd028be5b0b5d89e3685dcc3a1bddd58448b62e58a775e4a2820a048c"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/ssl_client2",
+      "kind": "file",
+      "bytes": 1064744,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "f3122a5d7f8dcada5ed625d3184cd260ebf00348e17673a986a405e3834bede2"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/ssl_context_info",
+      "kind": "file",
+      "bytes": 1033488,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "aab7969c7794d2ae5a1c1008852d165d02f7ac1e2627d03246f124e1da077a47"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/ssl_fork_server",
+      "kind": "file",
+      "bytes": 986128,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "aa13276f0e37cc6366fe049a9c6034db769c39f0af4770897fc0bd01fc5808ca"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/ssl_mail_client",
+      "kind": "file",
+      "bytes": 1011008,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "3cf0db7dd7cf7c518c4be8fb51b5d9415790b7b59a29aeaea111736497c1ada6"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/ssl_server",
+      "kind": "file",
+      "bytes": 1006080,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "975a6749ec9a3388e0b1956db07afcf9268a5839948c02e485172a8a3f3f9d2a"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/ssl_server2",
+      "kind": "file",
+      "bytes": 1079728,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "f966fe333629a523103f2a70cf04c539b8a05d6783e453596f2c7b29c39372aa"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/ssl/ssl_test_lib.o",
+      "kind": "file",
+      "bytes": 11912,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "29dff31e02a0316fa71ffedb4424d2b789760abdcaf6b55c379d1ffa647e250e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/test/benchmark",
+      "kind": "file",
+      "bytes": 1019936,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "d9b02405769db9a1c0420993f1ee54ef69ccc4c1927e412796f5ed3311203989"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/test/metatest",
+      "kind": "file",
+      "bytes": 983688,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "cf134e702986e09b298f07ef012d4e59b932249bfa9a76b9e9e4369dbd2c8a42"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/test/query_compile_time_config",
+      "kind": "file",
+      "bytes": 1003384,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "de6ee26f2e14034e709ece3ba7e2d5a2db3589db67d4d7a040dadb8e35c8f795"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/test/query_config.o",
+      "kind": "file",
+      "bytes": 70624,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "a8fa3941c7d3a2cb6bd4fe2e425fcc9b0eccef9088d3dc4a26ed073a580cb275"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/test/query_included_headers",
+      "kind": "file",
+      "bytes": 975952,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "8f03ab5102ed2c98625ed4af9ec9565a662ef6351a6caa8c61a404e3f3a85078"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/test/selftest",
+      "kind": "file",
+      "bytes": 980112,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "259eccf56a2363d51a372d904b59dde71f7723a7a7baa7e7d86fca355da8a08e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/test/udp_proxy",
+      "kind": "file",
+      "bytes": 1013464,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "64d6a2bf04740ff2a07736bdf0350408e3e853aa9da67f355243d54554196946"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/test/zeroize",
+      "kind": "file",
+      "bytes": 976680,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "054b390675e115a77f2d845af7744585ba3d383f3309f54a617c9d961ae9cf8e"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/util/pem2der",
+      "kind": "file",
+      "bytes": 998024,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "2f58b7fdb38951aa9c21ed1996676ebb44449e33e290b0301de8f94b8595e0fb"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/util/strerror",
+      "kind": "file",
+      "bytes": 996864,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "16f49d5bd3f52c98eaa19a9c2619f2fe4abec986c9be1d1cc70dd9cf7af60d3a"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/x509/cert_app",
+      "kind": "file",
+      "bytes": 991256,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "4f435a89510635b0f6e9fe120b80bd662bfa22445123728b17cbe68f4b53541b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/x509/cert_req",
+      "kind": "file",
+      "bytes": 1015224,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "60e3c54c6d0f58e2aef973eae4259cec4c37c2a329b490a51be565abb0ec4f18"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/x509/cert_write",
+      "kind": "file",
+      "bytes": 1029536,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "583e6d44d0de40ce4cfbf9a0021cf56dbba3579f096eda1e8bde31f27a03c739"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/x509/crl_app",
+      "kind": "file",
+      "bytes": 981256,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "6618d556e87c9e249836145af77453b1d3518d88bdecabf69a807db2ee30a952"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/x509/load_roots",
+      "kind": "file",
+      "bytes": 997824,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "b20715b18958a15d9d97334f2e3ae2adbd2628a76f8e7e3ab31a8db0d3d75d75"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/programs/x509/req_app",
+      "kind": "file",
+      "bytes": 980776,
+      "mode": "0o755",
+      "linkTarget": null,
+      "sha256": "d962a1a10314dab128168cbaa2a1f44c3389777d007bc3b9cc8d3db1842fd6b9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/asn1_helpers.o",
+      "kind": "file",
+      "bytes": 2736,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f203561a4d7a95eb33c34529847cebe3f08fb6adc6fc2627376ea58d26ecc69a"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/bignum_helpers.o",
+      "kind": "file",
+      "bytes": 3000,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "270e54884f19eab68909e54b759c0767f5f238c41921ee4ffec5d4f4035ac814"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/certs.o",
+      "kind": "file",
+      "bytes": 62768,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "ec2ef182936c1a8dbe395e072ff958ced1736c891a7e7dd9e50dd69f1be1cc7d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/drivers/hash.o",
+      "kind": "file",
+      "bytes": 776,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "58c666fa2923049ccd982971bcba2e551c92be69fdb8adeb577e683b940e93e2"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/drivers/platform_builtin_keys.o",
+      "kind": "file",
+      "bytes": 792,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "77eb79cf3088b32b6355434443f2575498d9d56f9264bdc0c1aa969c2b50fa6b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/drivers/test_driver_aead.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "6b34377ec4b42bc47d3ea8f4ef0061b5fcd56adbb6c100617a96861ce30ce743"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/drivers/test_driver_asymmetric_encryption.o",
+      "kind": "file",
+      "bytes": 808,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e6eec510e0fe2f8673219774e92d8c37740505caed9a9403586b8df0eadfc95b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/drivers/test_driver_cipher.o",
+      "kind": "file",
+      "bytes": 792,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "5bd823873e4ebb92100d246885c0edd9fbf4212f92efc4c4c6d9884ff608a33f"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/drivers/test_driver_key_agreement.o",
+      "kind": "file",
+      "bytes": 800,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "755e3d1bd63bfa9b91f76a080b30486260d65188bb68ce448325a0267d773f23"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/drivers/test_driver_key_management.o",
+      "kind": "file",
+      "bytes": 800,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "e7f586725e7bdb37c0b958cb25f87188685a3f6f8294257a7d588d97d4d84d53"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/drivers/test_driver_mac.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "698ccdb41977b5ad115fc81c029903a5d4bf541eb5a5fb1da6edafbc1618c1e3"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/drivers/test_driver_pake.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d08483fff50b749a61d1d929e814a1f6af03c40a481d5321499cf18542f7a399"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/drivers/test_driver_signature.o",
+      "kind": "file",
+      "bytes": 792,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "2fc63a33a9190effafbdec45bc7736fa36a59c99dcfcb2d2c3b018acc9a3d164"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/fake_external_rng_for_test.o",
+      "kind": "file",
+      "bytes": 800,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "21880a65eb74d17519226f6accc7237e7d8ff4090d48c4e76da6972dd045cf9d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/helpers.o",
+      "kind": "file",
+      "bytes": 9448,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d92fa5c2b009870772646613fb30dafb837a78241dfa35a6644726ce46f71e04"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/psa_crypto_helpers.o",
+      "kind": "file",
+      "bytes": 4544,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "eff86021368766849a749e73cd93228f1bcd2195b96cb8a8370b5b048062ae7b"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/psa_crypto_stubs.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "bf712780c58b164b71587fcca7e83f2331b9b4314a38b4222ab6727dc9481c37"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/psa_exercise_key.o",
+      "kind": "file",
+      "bytes": 40168,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "fb3d90602cb6df7e8956d8a7a70425642c7e8ce88ab2755c5f268f26ec5c8677"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/psa_memory_poisoning_wrappers.o",
+      "kind": "file",
+      "bytes": 800,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "752d9fb0cca8615f3b0b875e40cc951c50fd86d76c59de11ba254c87c471e6f5"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/psa_test_wrappers.o",
+      "kind": "file",
+      "bytes": 792,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "f6e99a807e7975ee4f116b6d5bbc8ff06f1471f3b748179801aaacf4e972c07d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/random.o",
+      "kind": "file",
+      "bytes": 2360,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "8f83eee8d20f000cafa41aa7d3e1da01518d00d6f9174ddb91c879b5db03500f"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/test_helpers/ssl_helpers.o",
+      "kind": "file",
+      "bytes": 52600,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "d6a3fe076309270d25fb94189f03aa55f9f137c0a9ab90f0746767b24772aac9"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/test_memory.o",
+      "kind": "file",
+      "bytes": 784,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "71fcf9064772c33ed20e1e1b65f5468479d25374ed4649db764de02c8c98966d"
+    },
+    {
+      "path": "mpv-android/buildscripts/deps/mbedtls/tests/src/threading_helpers.o",
+      "kind": "file",
+      "bytes": 792,
+      "mode": "0o644",
+      "linkTarget": null,
+      "sha256": "68b2c4d3aaa0fe8f90a3ee21e39a86567c7cec70d6711bee3d9ce9f3b6da1303"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SQLite",
+    "website": "https://www.sqlite.org/copyright.html",
+    "licenseName": "Public domain",
+    "asset": "licenses/sqlite/sqlite.txt"
+  },
+  {
+    "name": "SQLite Android JNI wrapper",
+    "website": "https://github.com/requery/sqlite-android",
+    "licenseName": "Apache-2.0",
+    "asset": "licenses/sqlite/wrapper.txt"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "mpv-android",
+    "website": "https://github.com/aniyomiorg/aniyomi-mpv-lib",
+    "licenseName": "MIT",
+    "asset": "licenses/player-lgpl/mpv-android.txt"
+  },
+  {
+    "name": "ffmpeg-kit",
+    "website": "https://github.com/jmir1/ffmpeg-kit",
+    "licenseName": "LGPL-3.0-or-later",
+    "asset": "licenses/player-lgpl/ffmpeg-kit.txt"
+  },
+  {
+    "name": "mpv",
+    "website": "https://github.com/mpv-player/mpv",
+    "licenseName": "LGPL-2.1-or-later (gpl=false)",
+    "asset": "licenses/player-lgpl/mpv.txt"
+  },
+  {
+    "name": "ffmpeg",
+    "website": "https://github.com/FFmpeg/FFmpeg",
+    "licenseName": "LGPL-3.0-or-later (GPL/nonfree disabled)",
+    "asset": "licenses/player-lgpl/ffmpeg.txt"
+  },
+  {
+    "name": "mbedtls",
+    "website": "https://github.com/Mbed-TLS/mbedtls",
+    "licenseName": "Apache-2.0",
+    "asset": "licenses/player-lgpl/mbedtls.txt"
+  },
+  {
+    "name": "libxml2",
+    "website": "https://gitlab.gnome.org/GNOME/libxml2",
+    "licenseName": "MIT",
+    "asset": "licenses/player-lgpl/libxml2.txt"
+  },
+  {
+    "name": "dav1d",
+    "website": "https://github.com/videolan/dav1d",
+    "licenseName": "BSD-2-Clause",
+    "asset": "licenses/player-lgpl/dav1d.txt"
+  },
+  {
+    "name": "freetype2",
+    "website": "https://github.com/freetype/freetype",
+    "licenseName": "FreeType License",
+    "asset": "licenses/player-lgpl/freetype2.txt"
+  },
+  {
+    "name": "fribidi",
+    "website": "https://github.com/fribidi/fribidi",
+    "licenseName": "LGPL-2.1-or-later",
+    "asset": "licenses/player-lgpl/fribidi.txt"
+  },
+  {
+    "name": "harfbuzz",
+    "website": "https://github.com/harfbuzz/harfbuzz",
+    "licenseName": "MIT",
+    "asset": "licenses/player-lgpl/harfbuzz.txt"
+  },
+  {
+    "name": "libass",
+    "website": "https://github.com/libass/libass",
+    "licenseName": "ISC",
+    "asset": "licenses/player-lgpl/libass.txt"
+  },
+  {
+    "name": "libplacebo",
+    "website": "https://github.com/haasn/libplacebo",
+    "licenseName": "LGPL-2.1-or-later",
+    "asset": "licenses/player-lgpl/libplacebo.txt"
+  },
+  {
+    "name": "cpu-features",
+    "website": "https://github.com/arthenica/cpu_features",
+    "licenseName": "Apache-2.0",
+    "asset": "licenses/player-lgpl/cpu-features.txt"
+  },
+  {
+    "name": "Lua 5.2.4",
+    "website": "https://www.lua.org",
+    "licenseName": "MIT",
+    "asset": "licenses/player-lgpl/lua.txt"
+  },
+  {
+    "name": "libunibreak",
+    "website": "https://github.com/adah1972/libunibreak",
+    "licenseName": "Zlib",
+    "asset": "licenses/player-lgpl/unibreak.txt"
+  }
+]
