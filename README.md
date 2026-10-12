@@ -1,6 +1,13 @@
 # Lorenzo Garrone — static project website
 
-Public-only English pages for Approssimazione and Nyanime. No application binaries, private source, source modules, catalogue, credentials or analytics are included. Nyanime's proposed licence remains explicitly scoped and under review.
+Public-only English project pages. No application binaries, private source,
+source modules, catalogue, credentials or analytics are included.
+
+The Nyanime card opens the official website at https://owouwuiwi.github.io/.
+`/nyanime/` also redirects there, preserving section anchors without forwarding
+query parameters. Existing privacy, licence and component-source archive URLs
+remain available for the earlier Play development candidate they document;
+the shared-content landing page and its Android association are unchanged.
 
 Serve this directory as the web root; all navigation is rooted at `/`. GitHub Pages can serve it as the `noire342.github.io` user site. Generation alone does not publish anything.
 
