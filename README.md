@@ -19,6 +19,11 @@ creator's description; no unverified download or availability claim is made.
 Its styles and script are isolated from the Nyanime pages. The root homepage
 remains a two-card project index.
 
+The root index loads `assets/projects-motion.css` for a staggered entrance and
+subtle card, logo and arrow feedback. Motion uses CSS only, runs once on entry,
+respects reduced-motion preferences and cancels entrance effects for keyboard
+focus. Project subpages and their scripts remain independent of this layer.
+
 Approssimazione uses a floating, sticky glass navigation bar, matching the
 official Nyanime site's proportions in its own cool palette. Narrow layouts
 keep the project identity and compact, labelled project/contact controls.
