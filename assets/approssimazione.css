@@ -171,3 +171,25 @@
 @media (prefers-contrast: more) {
   .app-nav { background: #202736; border-color: var(--app-muted); -webkit-backdrop-filter: none; backdrop-filter: none; }
 }
+.app-availability {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin-top: 24px;
+  padding: 20px 24px;
+  border: 1px solid #d0e6fa29;
+  border-radius: 22px;
+  background: linear-gradient(125deg, #d0e6fa0a, #d0e6fa03);
+  box-shadow: inset 0 1px 0 #edf5ff0c;
+}
+.app-availability svg { width: 23px; height: 23px; margin-top: 2px; flex-shrink: 0; color: var(--app-accent); }
+.app-availability h2 { font-size: 15px; line-height: 1.5; margin: 0 0 4px; letter-spacing: 0; }
+.app-availability p { font-size: 14px; line-height: 1.75; color: var(--app-muted); margin: 0; }
+.app-availability + .app-hero { padding-top: 55px; }
+@media (max-width: 650px) {
+  .app-availability { margin-top: 18px; padding: 18px; gap: 12px; border-radius: 20px; }
+  .app-availability + .app-hero { padding-top: 36px; }
+}
+@media (prefers-contrast: more) {
+  .app-availability { background: #202736; border-color: var(--app-muted); }
+}
