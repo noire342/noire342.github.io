@@ -17,9 +17,18 @@ app screenshot or a reproduction of its implementation. It runs locally, with
 no network requests, storage or analytics. The project information reflects the
 creator's description; no unverified download or availability claim is made.
 Its styles and script are isolated from the Nyanime pages. The root homepage
-remains a project-card index. Moon Patches is presented as a non-interactive
-article with a "Coming soon" status, without a destination or a keyboard tab stop.
-Its supplied PNG retains its original transparency.
+remains a project-card index. The Moon Patches card links to `/moon-patches/`;
+its supplied PNG retains its original transparency.
+
+`/moon-patches/` presents the independent Morphe-compatible patch bundle in
+English, with a source-copy control, installation steps, room features and
+explicit experimental compatibility limits. Information comes from the public
+Moon README, installation guide, privacy document and validation record.
+Downloads lead to the project's releases; no YouTube APK is hosted here.
+The page links to the GPL licence, corresponding source and third-party notices.
+Its isolated CSS/JavaScript adds optional one-shot reveals and respects reduced
+motion. Installation information and native FAQ controls work without JavaScript;
+the page sends no analytics or background requests to external services.
 
 The root index loads `assets/projects-motion.css` for a staggered entrance and
 subtle card, logo and arrow feedback. Motion uses CSS only, runs once on entry,
