@@ -19,6 +19,10 @@ creator's description; no unverified download or availability claim is made.
 Its styles and script are isolated from the Nyanime pages. The root homepage
 remains a two-card project index.
 
+Approssimazione uses a floating, sticky glass navigation bar, matching the
+official Nyanime site's proportions in its own cool palette. Narrow layouts
+keep the project identity and compact, labelled project/contact controls.
+
 `/nyanime/open/` opens a shared reference in the app after an explicit tap. The
 fragment is processed locally with no network requests, analytics or storage;
 titles are displayed as text. Source references remain opaque and are resolved
