@@ -4,6 +4,14 @@ Public-only English pages for Approssimazione and Nyanime. No application binari
 
 Serve this directory as the web root; all navigation is rooted at `/`. GitHub Pages can serve it as the `noire342.github.io` user site. Generation alone does not publish anything.
 
+`/approssimazione/` presents the approximate-time Wear OS project in English.
+The interactive clock is an original web illustration of the concept, not an
+app screenshot or a reproduction of its implementation. It runs locally, with
+no network requests, storage or analytics. The project information reflects the
+creator's description; no unverified download or availability claim is made.
+Its styles and script are isolated from the Nyanime pages. The root homepage
+remains a two-card project index.
+
 `/nyanime/open/` opens a shared reference in the app after an explicit tap. The
 fragment is processed locally with no network requests, analytics or storage;
 titles are displayed as text. Source references remain opaque and are resolved

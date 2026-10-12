@@ -1,18 +1,92 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Approssimazione project information and contact details.">
-<meta name="theme-color" content="#10131d"><meta name="color-scheme" content="dark">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Approssimazione tells the time in familiar, approximate words. An independent Wear OS project by Lorenzo Garrone.">
+<meta name="theme-color" content="#10131d">
+<meta name="color-scheme" content="dark">
 <meta name="referrer" content="strict-origin-when-cross-origin">
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
-<link rel="icon" href="/assets/monogram.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/assets/legal.css?v=projects-4"><title>Approssimazione · Lorenzo Garrone</title>
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Approssimazione · Time, in words.">
+<meta property="og:description" content="Ten to four. Almost midnight. About two. A more natural way to read the time.">
+<meta property="og:url" content="https://noire342.github.io/approssimazione/">
+<link rel="canonical" href="https://noire342.github.io/approssimazione/">
+<link rel="icon" href="/assets/approssimazione-logo.png" type="image/png">
+<link rel="stylesheet" href="/assets/legal.css?v=projects-4">
+<link rel="stylesheet" href="/assets/approssimazione.css?v=1">
+<script src="/assets/approssimazione.js?v=1" defer></script>
+<title>Approssimazione · Time, in words.</title>
 </head>
-<body><a class="skip-link" href="#main">Skip to content</a>
-<div class="shell">
-<header class="site-header glass"><a class="identity" href="/"><span class="monogram" aria-hidden="true">LG</span><span>Lorenzo Garrone</span></a>
-<nav aria-label="Main navigation"><a href="/#projects">Projects</a><a href="/approssimazione/">Approssimazione</a><a href="/nyanime/">Nyanime</a><a href="mailto:lorenzogarrone2000@gmail.com">Contact</a></nav></header>
-<main id="main" class="project-main"><section class="hero"><p class="eyebrow">Project</p><h1 class="placeholder-title">Approssimazione</h1><p class="lead">Project information is being prepared.</p></section><section class="glass overview"><h2>Contact</h2><p>For information about this project, contact Lorenzo Garrone.</p><a href="mailto:lorenzogarrone2000@gmail.com">lorenzogarrone2000@gmail.com</a></section></main>
-<footer class="site-footer"><span>Lorenzo Garrone · Independent projects</span><div><a href="/nyanime/privacy/">Privacy</a><a href="mailto:lorenzogarrone2000@gmail.com">Get in touch</a></div></footer>
-</div></body></html>
+<body class="approximation-page">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="app-shell">
+  <header class="app-nav">
+    <a class="back-link" href="/" aria-label="Back to all projects"><span aria-hidden="true">←</span> All projects</a>
+    <a class="app-nav-contact" href="mailto:lorenzogarrone2000@gmail.com?subject=Approssimazione">Get in touch <span aria-hidden="true">↗</span></a>
+  </header>
+  <main id="main">
+    <section class="app-hero" aria-labelledby="project-title">
+      <div class="app-hero-copy t-stagger">
+        <img class="app-brand" src="/assets/approssimazione-logo.png" width="80" height="80" alt="">
+        <p class="app-kicker">An independent Wear OS project</p>
+        <h1 id="project-title" data-reveal>Approssimazione</h1>
+        <p class="app-headline" data-reveal>Time, in words.</p>
+        <p class="app-description">“Ten to four.” “Almost midnight.” “About two.” Approssimazione shows the time approximately, using the familiar phrases you would say out loud.</p>
+        <div class="app-actions">
+          <a class="button app-primary" href="#try-it">Try a moment <span aria-hidden="true">↗</span></a>
+          <a class="button" href="#about">Discover the idea <span aria-hidden="true">↓</span></a>
+        </div>
+      </div>
+      <div class="app-preview" id="try-it" aria-label="Interactive example of approximate time">
+        <div class="app-watch-art">
+          <div class="app-orbit" aria-hidden="true"></div>
+          <div class="watch-strap" aria-hidden="true"></div>
+          <div class="watch-face">
+            <div class="watch-display">
+              <img src="/assets/approssimazione-logo.png" width="42" height="42" alt="">
+              <p id="approximate-time" class="watch-phrase" aria-live="polite" aria-atomic="true">ten to four.</p>
+              <span class="watch-caption">APPROSSIMAZIONE</span>
+            </div>
+          </div>
+        </div>
+        <div class="app-demo-controls">
+          <div class="demo-heading"><label for="demo-time">Pick a time</label><output id="demo-exact" for="demo-time">15:50</output></div>
+          <input id="demo-time" type="range" min="0" max="1439" step="1" value="950" aria-valuetext="15:50 — ten to four">
+          <div class="demo-presets" aria-label="Example moments">
+            <button type="button" data-minute="950" aria-pressed="true">15:50</button>
+            <button type="button" data-minute="1437" aria-pressed="false">23:57</button>
+            <button type="button" data-minute="840" aria-pressed="false">14:00</button>
+            <button id="demo-now" type="button">Now</button>
+          </div>
+          <p class="demo-note">Interactive web illustration of the idea.<br>The app’s appearance and wording may differ.</p>
+        </div>
+      </div>
+    </section>
+    <section class="app-section" id="about" aria-labelledby="about-title">
+      <div class="app-section-heading">
+        <h2 id="about-title">The way you would say it.</h2>
+        <p>Familiar phrases. A quick sense of the moment.</p>
+      </div>
+      <div class="app-feature-grid">
+        <article class="app-feature"><span class="app-feature-index">01 / AFTERNOON</span><p class="example-time">15:50</p><h3>“Ten to four.”</h3><p>The next hour is close. Read the moment as a phrase.</p></article>
+        <article class="app-feature"><span class="app-feature-index">02 / LATE NIGHT</span><p class="example-time">23:57</p><h3>“Almost midnight.”</h3><p>A small phrase that immediately paints a picture.</p></article>
+        <article class="app-feature"><span class="app-feature-index">03 / AROUND THE HOUR</span><p class="example-time">14:00</p><h3>“About two.”</h3><p>A simple, approximate way to tell the time.</p></article>
+      </div>
+    </section>
+    <section class="app-section" aria-labelledby="project-about-title">
+      <div class="app-detail-panel">
+        <div><p class="app-kicker">The idea</p><h2 id="project-about-title">A different way<br>to read your watch.</h2></div>
+        <p>Approssimazione is a Wear OS project created by Lorenzo Garrone. Its idea is simple: express the time in approximate, everyday language. For questions about the app, supported devices or availability, get in touch directly.</p>
+      </div>
+    </section>
+    <section class="app-contact" aria-labelledby="contact-title">
+      <div><h2 id="contact-title">Let’s talk.</h2><p>Questions, ideas or feedback about Approssimazione?</p></div>
+      <a href="mailto:lorenzogarrone2000@gmail.com?subject=Approssimazione">lorenzogarrone2000@gmail.com <span aria-hidden="true">↗</span></a>
+    </section>
+  </main>
+  <footer class="app-footer"><span>Approssimazione · Lorenzo Garrone</span><a href="/nyanime/">Explore Nyanime <span aria-hidden="true">↗</span></a></footer>
+</div>
+</body>
+</html>
