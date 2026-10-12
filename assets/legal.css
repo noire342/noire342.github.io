@@ -46,6 +46,7 @@ a.project-card:hover{border-color:#ffffff45;background-color:#2b3344b8}
 span.project-symbol{display:grid;place-items:center;background:#d5d7e312;border:1px solid #d5d7e324;color:#d1d5e8;font-size:47px;line-height:1}
 span.approximation-symbol{background:transparent;border:0;overflow:visible}
 .approximation-symbol img{width:70px;height:70px;max-width:none;object-fit:contain;transform:scale(1.6)}
+.project-index .approximation-symbol img{filter:invert(1)}
 .project-card .eyebrow{margin-bottom:10px}
 .project-card p:not(.eyebrow){color:var(--muted);font-size:16px;max-width:380px;margin-bottom:32px}
 .card-link{font-size:13px;color:var(--accent);display:flex;justify-content:space-between;gap:12px;margin-top:auto;font-weight:600}
